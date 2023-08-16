@@ -1,0 +1,435 @@
+The size for Fair:
+The Fair of 200_1.3: 13986.20
+Sequential times: 684.865
+Parallel times: 658.67
+enhanced:  3.82484139209918 %
+
+90% of data for Sequential times: 600.11
+90% of data for Parallel times: 579.13
+enhanced:  3.496025728616423 %
+****************************************************
+The Fair of 200_1.5: 10513.69
+Sequential times: 1716.435
+Parallel times: 1037.32
+enhanced:  39.56543650065397 %
+
+90% of data for Sequential times: 1330.99
+90% of data for Parallel times: 888.84
+enhanced:  33.2196335058866 %
+****************************************************
+The Fair of 200_1.7: 38914.69
+Sequential times: 8553.92
+Parallel times: 3010.765
+enhanced:  64.8025115970222 %
+
+90% of data for Sequential times: 6803.77
+90% of data for Parallel times: 2461.495
+enhanced:  63.821601847211184 %
+****************************************************
+The Fair of 200_1.9: 68810.90
+Sequential times: 2335.135
+Parallel times: 1247.4
+enhanced:  46.58124690863698 %
+
+90% of data for Sequential times: 1780.31
+90% of data for Parallel times: 1050.44
+enhanced:  40.99679269340732 %
+****************************************************
+The Fair of 200_2.1: 91490.96
+Sequential times: 1007.185
+Parallel times: 842.045
+enhanced:  16.396193350774684 %
+
+90% of data for Sequential times: 817.725
+90% of data for Parallel times: 710.83
+enhanced:  13.072243113516155 %
+****************************************************
+The Fair of 200_2.3: 107283.92
+Sequential times: 729.595
+Parallel times: 672.785
+enhanced:  7.786511694844407 %
+
+90% of data for Sequential times: 634.43
+90% of data for Parallel times: 594.69
+enhanced:  6.263890421323062 %
+****************************************************
+The Fair of 300_1.3: 32019.44
+Sequential times: 1217.48
+Parallel times: 994.305
+enhanced:  18.330896606104417 %
+
+90% of data for Sequential times: 1060.885
+90% of data for Parallel times: 869.88
+enhanced:  18.00430772421139 %
+****************************************************
+The Fair of 300_1.5: 21038.06
+Sequential times: 3018.88
+Parallel times: 1488.705
+enhanced:  50.686844127623495 %
+
+90% of data for Sequential times: 2554.82
+90% of data for Parallel times: 1275.515
+enhanced:  50.07417352298792 %
+****************************************************
+The Fair of 300_1.7: 85550.58
+Sequential times: 21082.575
+Parallel times: 7719.81
+enhanced:  63.3829833405075 %
+
+90% of data for Sequential times: 17597.875
+90% of data for Parallel times: 6351.465
+enhanced:  63.90777295554151 %
+****************************************************
+The Fair of 300_1.9: 152067.65
+Sequential times: 4840.13
+Parallel times: 1933.915
+enhanced:  60.044151706669034 %
+
+90% of data for Sequential times: 4024.26
+90% of data for Parallel times: 1669.72
+enhanced:  58.50864506766461 %
+****************************************************
+The Fair of 300_2.1: 203267.13
+Sequential times: 1760.95
+Parallel times: 1133.585
+enhanced:  35.62650841875124 %
+
+90% of data for Sequential times: 1476.82
+90% of data for Parallel times: 983.1
+enhanced:  33.431291558890045 %
+****************************************************
+The Fair of 300_2.3: 242125.01
+Sequential times: 1202.86
+Parallel times: 944.365
+enhanced:  21.49003209018505 %
+
+90% of data for Sequential times: 1066.115
+90% of data for Parallel times: 837.65
+enhanced:  21.429676911027425 %
+****************************************************
+The Fair of 400_1.3: 55595.90
+Sequential times: 1895.58
+Parallel times: 1097.395
+enhanced:  42.10769263233417 %
+
+90% of data for Sequential times: 1675.99
+90% of data for Parallel times: 959.565
+enhanced:  42.746376768357806 %
+****************************************************
+The Fair of 400_1.5: 37267.72
+Sequential times: 5208.085
+Parallel times: 2029.42
+enhanced:  61.03327806669822 %
+
+90% of data for Sequential times: 4367.81
+90% of data for Parallel times: 1727.955
+enhanced:  60.43886982263423 %
+****************************************************
+The Fair of 400_1.7: 155977.36
+Sequential times: 42905.28
+Parallel times: 13856.925
+enhanced:  67.70345048441591 %
+
+90% of data for Sequential times: 35927.48
+90% of data for Parallel times: 11526.75
+enhanced:  67.91661981302336 %
+****************************************************
+The Fair of 400_1.9: 270758.00
+Sequential times: 8108.35
+Parallel times: 3155.68
+enhanced:  61.08110774695221 %
+
+90% of data for Sequential times: 6791.2
+90% of data for Parallel times: 2698.685
+enhanced:  60.26203027447285 %
+****************************************************
+The Fair of 400_2.1: 361276.27
+Sequential times: 3218.475
+Parallel times: 1659.185
+enhanced:  48.44810042023008 %
+
+90% of data for Sequential times: 2738.34
+90% of data for Parallel times: 1457.44
+enhanced:  46.77651423855329 %
+****************************************************
+The Fair of 400_2.3: 427398.89
+Sequential times: 2107.395
+Parallel times: 1353.035
+enhanced:  35.79585222514051 %
+
+90% of data for Sequential times: 1843.775
+90% of data for Parallel times: 1194.79
+enhanced:  35.198709170045156 %
+****************************************************
+The Fair of 500_1.3: 86347.52
+Sequential times: 2754.43
+Parallel times: 1236.485
+enhanced:  55.10922404998494 %
+
+90% of data for Sequential times: 2471.35
+90% of data for Parallel times: 1106.2
+enhanced:  55.23903939142574 %
+****************************************************
+The Fair of 500_1.5: 56963.75
+Sequential times: 7514.485
+Parallel times: 2641.855
+enhanced:  64.843166231618 %
+
+90% of data for Sequential times: 6649.22
+90% of data for Parallel times: 2329.13
+enhanced:  64.97138010172621 %
+****************************************************
+The Fair of 500_1.7: 231205.80
+Sequential times: 72471.47
+Parallel times: 23730.5
+enhanced:  67.25539029358725 %
+
+90% of data for Sequential times: 60397.7
+90% of data for Parallel times: 19832.635
+enhanced:  67.1632611837868 %
+****************************************************
+The Fair of 500_1.9: 423794.71
+Sequential times: 13386.965
+Parallel times: 5174.04
+enhanced:  61.35016413354333 %
+
+90% of data for Sequential times: 11386.305
+90% of data for Parallel times: 4426.205
+enhanced:  61.126941531954394 %
+****************************************************
+The Fair of 500_2.1: 560990.30
+Sequential times: 5581.165
+Parallel times: 2841.36
+enhanced:  49.09019891008418 %
+
+90% of data for Sequential times: 4736.31
+90% of data for Parallel times: 2488.035
+enhanced:  47.46891567486082 %
+****************************************************
+The Fair of 500_2.3: 663381.20
+Sequential times: 3575.905
+Parallel times: 2270.495
+enhanced:  36.505723725881985 %
+
+90% of data for Sequential times: 3158.225
+90% of data for Parallel times: 2013.2
+enhanced:  36.25533329639275 %
+****************************************************
+============================================
+The size for Jumping:
+The Jumping of 200_1.3: 7.50
+Sequential times: 1191.875
+Parallel times: 429.73
+enhanced:  63.94504457262716 %
+
+90% of data for Sequential times: 436.825
+90% of data for Parallel times: 218.78
+enhanced:  49.91587019973674 %
+****************************************************
+The Jumping of 200_1.5: 7.00
+Sequential times: 1158.905
+Parallel times: 523.11
+enhanced:  54.861701347392575 %
+
+90% of data for Sequential times: 442.425
+90% of data for Parallel times: 282.31
+enhanced:  36.19031474261174 %
+****************************************************
+The Jumping of 200_1.7: 20.00
+Sequential times: 2135.64
+Parallel times: 815.01
+enhanced:  61.837669270101706 %
+
+90% of data for Sequential times: 888.775
+90% of data for Parallel times: 413.13
+enhanced:  53.5169193552924 %
+****************************************************
+The Jumping of 200_1.9: 37.00
+Sequential times: 993.73
+Parallel times: 491.085
+enhanced:  50.58164692622745 %
+
+90% of data for Sequential times: 587.56
+90% of data for Parallel times: 355.74
+enhanced:  39.45469398869902 %
+****************************************************
+The Jumping of 200_2.1: 56.50
+Sequential times: 693.655
+Parallel times: 446.485
+enhanced:  35.63298758028126 %
+
+90% of data for Sequential times: 531.695
+90% of data for Parallel times: 369.185
+enhanced:  30.564515370654235 %
+****************************************************
+The Jumping of 200_2.3: 63.00
+Sequential times: 574.695
+Parallel times: 406.285
+enhanced:  29.304239640156958 %
+
+90% of data for Sequential times: 454.17
+90% of data for Parallel times: 342.37
+enhanced:  24.616333091133278 %
+****************************************************
+The Jumping of 300_1.3: 9.50
+Sequential times: 4865.9
+Parallel times: 1671.28
+enhanced:  65.65321934277318 %
+
+90% of data for Sequential times: 2004.14
+90% of data for Parallel times: 684.625
+enhanced:  65.83946231301206 %
+****************************************************
+The Jumping of 300_1.5: 4.50
+Sequential times: 2956.585
+Parallel times: 1151.165
+enhanced:  61.06436987267405 %
+
+90% of data for Sequential times: 889.16
+90% of data for Parallel times: 442.5
+enhanced:  50.23392865176122 %
+****************************************************
+The Jumping of 300_1.7: 26.00
+Sequential times: 6293.91
+Parallel times: 2283.69
+enhanced:  63.71587772942416 %
+
+90% of data for Sequential times: 3293.725
+90% of data for Parallel times: 1206.4
+enhanced:  63.3727770229755 %
+****************************************************
+The Jumping of 300_1.9: 44.00
+Sequential times: 2384.595
+Parallel times: 1019.85
+enhanced:  57.231731174476174 %
+
+90% of data for Sequential times: 1623.745
+90% of data for Parallel times: 776.39
+enhanced:  52.18522612848692 %
+****************************************************
+The Jumping of 300_2.1: 55.50
+Sequential times: 1413.96
+Parallel times: 763.34
+enhanced:  46.01403151432855 %
+
+90% of data for Sequential times: 1101.085
+90% of data for Parallel times: 636.445
+enhanced:  42.19837705535903 %
+****************************************************
+The Jumping of 300_2.3: 63.50
+Sequential times: 1131.26
+Parallel times: 736.84
+enhanced:  34.8655481498506 %
+
+90% of data for Sequential times: 959.325
+90% of data for Parallel times: 645.805
+enhanced:  32.68131238110131 %
+****************************************************
+The Jumping of 400_1.3: 8.00
+Sequential times: 8625.11
+Parallel times: 2681.09
+enhanced:  68.91529499333922 %
+
+90% of data for Sequential times: 3386.355
+90% of data for Parallel times: 1022.205
+enhanced:  69.81400355249228 %
+****************************************************
+The Jumping of 400_1.5: 7.00
+Sequential times: 10596.59
+Parallel times: 3507.91
+enhanced:  66.89585989455098 %
+
+90% of data for Sequential times: 3501.585
+90% of data for Parallel times: 1313.57
+enhanced:  62.4864168655052 %
+****************************************************
+The Jumping of 400_1.7: 22.00
+Sequential times: 9081.185
+Parallel times: 2803.605
+enhanced:  69.12732204002012 %
+
+90% of data for Sequential times: 5263.03
+90% of data for Parallel times: 1772.915
+enhanced:  66.31379642525313 %
+****************************************************
+The Jumping of 400_1.9: 41.50
+Sequential times: 4681.825
+Parallel times: 1794.25
+enhanced:  61.67626940349116 %
+
+90% of data for Sequential times: 3311.895
+90% of data for Parallel times: 1344.025
+enhanced:  59.41824846500266 %
+****************************************************
+The Jumping of 400_2.1: 52.00
+Sequential times: 2650.6
+Parallel times: 1269.41
+enhanced:  52.10857918961744 %
+
+90% of data for Sequential times: 1984.325
+90% of data for Parallel times: 1053.745
+enhanced:  46.896551724137936 %
+****************************************************
+The Jumping of 400_2.3: 71.50
+Sequential times: 2332.43
+Parallel times: 1245.34
+enhanced:  46.60761523389769 %
+
+90% of data for Sequential times: 1925.135
+90% of data for Parallel times: 1069.05
+enhanced:  44.46882945871329 %
+****************************************************
+The Jumping of 500_1.3: 10.00
+Sequential times: 23124.15
+Parallel times: 6791.495
+enhanced:  70.63029343781285 %
+
+90% of data for Sequential times: 9682.54
+90% of data for Parallel times: 2861.925
+enhanced:  70.44241490352739 %
+****************************************************
+The Jumping of 500_1.5: 6.50
+Sequential times: 16447.115
+Parallel times: 5034.48
+enhanced:  69.38988995942451 %
+
+90% of data for Sequential times: 5200.66
+90% of data for Parallel times: 1873.12
+enhanced:  63.98303292274442 %
+****************************************************
+The Jumping of 500_1.7: 23.00
+Sequential times: 17133.505
+Parallel times: 5398.09
+enhanced:  68.49395380571576 %
+
+90% of data for Sequential times: 10164.61
+90% of data for Parallel times: 3348.835
+enhanced:  67.0539745253384 %
+****************************************************
+The Jumping of 500_1.9: 37.50
+Sequential times: 6885.72
+Parallel times: 2696.135
+enhanced:  60.844544942286355 %
+
+90% of data for Sequential times: 5099.43
+90% of data for Parallel times: 2107.59
+enhanced:  58.67008665674398 %
+****************************************************
+The Jumping of 500_2.1: 52.50
+Sequential times: 4930.625
+Parallel times: 2002.94
+enhanced:  59.37756369628597 %
+
+90% of data for Sequential times: 3367.365
+90% of data for Parallel times: 1492.19
+enhanced:  55.686716468217725 %
+****************************************************
+The Jumping of 500_2.3: 64.50
+Sequential times: 3965.73
+Parallel times: 1859.58
+enhanced:  53.10875929526216 %
+
+90% of data for Sequential times: 3084.0
+90% of data for Parallel times: 1528.215
+enhanced:  50.44698443579767 %
+****************************************************

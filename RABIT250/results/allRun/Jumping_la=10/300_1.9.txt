@@ -1,0 +1,3001 @@
+
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/1.a.ba
+2.  ./Datasets/300_1.9_0.5/1.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 637 ms.
+Time used(ms) for Parallel Version: 535 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/2.a.ba
+2.  ./Datasets/300_1.9_0.5/2.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 508 ms.
+Time used(ms) for Parallel Version: 601 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/3.a.ba
+2.  ./Datasets/300_1.9_0.5/3.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 416 ms.
+Time used(ms) for Parallel Version: 353 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/4.a.ba
+2.  ./Datasets/300_1.9_0.5/4.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2073 ms.
+Time used(ms) for Parallel Version: 1046 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/5.a.ba
+2.  ./Datasets/300_1.9_0.5/5.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2668 ms.
+Time used(ms) for Parallel Version: 1190 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/6.a.ba
+2.  ./Datasets/300_1.9_0.5/6.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 444 ms.
+Time used(ms) for Parallel Version: 359 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/7.a.ba
+2.  ./Datasets/300_1.9_0.5/7.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1918 ms.
+Time used(ms) for Parallel Version: 1430 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/8.a.ba
+2.  ./Datasets/300_1.9_0.5/8.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 479 ms.
+Time used(ms) for Parallel Version: 506 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/9.a.ba
+2.  ./Datasets/300_1.9_0.5/9.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5679 ms.
+Time used(ms) for Parallel Version: 2013 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/10.a.ba
+2.  ./Datasets/300_1.9_0.5/10.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5679 ms.
+Time used(ms) for Parallel Version: 1826 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/11.a.ba
+2.  ./Datasets/300_1.9_0.5/11.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 378 ms.
+Time used(ms) for Parallel Version: 315 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/12.a.ba
+2.  ./Datasets/300_1.9_0.5/12.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 413 ms.
+Time used(ms) for Parallel Version: 713 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/13.a.ba
+2.  ./Datasets/300_1.9_0.5/13.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 389 ms.
+Time used(ms) for Parallel Version: 388 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/14.a.ba
+2.  ./Datasets/300_1.9_0.5/14.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 419 ms.
+Time used(ms) for Parallel Version: 365 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/15.a.ba
+2.  ./Datasets/300_1.9_0.5/15.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3213 ms.
+Time used(ms) for Parallel Version: 1185 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/16.a.ba
+2.  ./Datasets/300_1.9_0.5/16.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 394 ms.
+Time used(ms) for Parallel Version: 305 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/17.a.ba
+2.  ./Datasets/300_1.9_0.5/17.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 18581 ms.
+Time used(ms) for Parallel Version: 4192 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/18.a.ba
+2.  ./Datasets/300_1.9_0.5/18.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 10409 ms.
+Time used(ms) for Parallel Version: 2176 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/19.a.ba
+2.  ./Datasets/300_1.9_0.5/19.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2438 ms.
+Time used(ms) for Parallel Version: 931 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/20.a.ba
+2.  ./Datasets/300_1.9_0.5/20.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6704 ms.
+Time used(ms) for Parallel Version: 2785 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/21.a.ba
+2.  ./Datasets/300_1.9_0.5/21.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 412 ms.
+Time used(ms) for Parallel Version: 318 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/22.a.ba
+2.  ./Datasets/300_1.9_0.5/22.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 337 ms.
+Time used(ms) for Parallel Version: 366 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/23.a.ba
+2.  ./Datasets/300_1.9_0.5/23.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 344 ms.
+Time used(ms) for Parallel Version: 778 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/24.a.ba
+2.  ./Datasets/300_1.9_0.5/24.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 364 ms.
+Time used(ms) for Parallel Version: 371 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/25.a.ba
+2.  ./Datasets/300_1.9_0.5/25.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 361 ms.
+Time used(ms) for Parallel Version: 370 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/26.a.ba
+2.  ./Datasets/300_1.9_0.5/26.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 886 ms.
+Time used(ms) for Parallel Version: 686 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/27.a.ba
+2.  ./Datasets/300_1.9_0.5/27.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2869 ms.
+Time used(ms) for Parallel Version: 868 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/28.a.ba
+2.  ./Datasets/300_1.9_0.5/28.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3537 ms.
+Time used(ms) for Parallel Version: 1687 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/29.a.ba
+2.  ./Datasets/300_1.9_0.5/29.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 463 ms.
+Time used(ms) for Parallel Version: 416 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/30.a.ba
+2.  ./Datasets/300_1.9_0.5/30.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 344 ms.
+Time used(ms) for Parallel Version: 282 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/31.a.ba
+2.  ./Datasets/300_1.9_0.5/31.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 370 ms.
+Time used(ms) for Parallel Version: 289 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/32.a.ba
+2.  ./Datasets/300_1.9_0.5/32.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 368 ms.
+Time used(ms) for Parallel Version: 518 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/33.a.ba
+2.  ./Datasets/300_1.9_0.5/33.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1976 ms.
+Time used(ms) for Parallel Version: 992 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/34.a.ba
+2.  ./Datasets/300_1.9_0.5/34.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 305 ms.
+Time used(ms) for Parallel Version: 256 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/35.a.ba
+2.  ./Datasets/300_1.9_0.5/35.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 323 ms.
+Time used(ms) for Parallel Version: 362 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/36.a.ba
+2.  ./Datasets/300_1.9_0.5/36.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1499 ms.
+Time used(ms) for Parallel Version: 749 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/37.a.ba
+2.  ./Datasets/300_1.9_0.5/37.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3019 ms.
+Time used(ms) for Parallel Version: 1256 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/38.a.ba
+2.  ./Datasets/300_1.9_0.5/38.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 411 ms.
+Time used(ms) for Parallel Version: 295 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/39.a.ba
+2.  ./Datasets/300_1.9_0.5/39.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 292 ms.
+Time used(ms) for Parallel Version: 281 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/40.a.ba
+2.  ./Datasets/300_1.9_0.5/40.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 393 ms.
+Time used(ms) for Parallel Version: 313 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/41.a.ba
+2.  ./Datasets/300_1.9_0.5/41.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 421 ms.
+Time used(ms) for Parallel Version: 415 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/42.a.ba
+2.  ./Datasets/300_1.9_0.5/42.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6369 ms.
+Time used(ms) for Parallel Version: 2026 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/43.a.ba
+2.  ./Datasets/300_1.9_0.5/43.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3769 ms.
+Time used(ms) for Parallel Version: 1481 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/44.a.ba
+2.  ./Datasets/300_1.9_0.5/44.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 382 ms.
+Time used(ms) for Parallel Version: 357 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/45.a.ba
+2.  ./Datasets/300_1.9_0.5/45.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6269 ms.
+Time used(ms) for Parallel Version: 2131 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/46.a.ba
+2.  ./Datasets/300_1.9_0.5/46.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1479 ms.
+Time used(ms) for Parallel Version: 1128 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/47.a.ba
+2.  ./Datasets/300_1.9_0.5/47.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 294 ms.
+Time used(ms) for Parallel Version: 271 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/48.a.ba
+2.  ./Datasets/300_1.9_0.5/48.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5077 ms.
+Time used(ms) for Parallel Version: 2143 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/49.a.ba
+2.  ./Datasets/300_1.9_0.5/49.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3158 ms.
+Time used(ms) for Parallel Version: 1377 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/50.a.ba
+2.  ./Datasets/300_1.9_0.5/50.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 309 ms.
+Time used(ms) for Parallel Version: 458 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/51.a.ba
+2.  ./Datasets/300_1.9_0.5/51.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 366 ms.
+Time used(ms) for Parallel Version: 297 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/52.a.ba
+2.  ./Datasets/300_1.9_0.5/52.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 429 ms.
+Time used(ms) for Parallel Version: 290 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/53.a.ba
+2.  ./Datasets/300_1.9_0.5/53.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2484 ms.
+Time used(ms) for Parallel Version: 1732 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/54.a.ba
+2.  ./Datasets/300_1.9_0.5/54.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 434 ms.
+Time used(ms) for Parallel Version: 372 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/55.a.ba
+2.  ./Datasets/300_1.9_0.5/55.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3146 ms.
+Time used(ms) for Parallel Version: 1115 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/56.a.ba
+2.  ./Datasets/300_1.9_0.5/56.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 389 ms.
+Time used(ms) for Parallel Version: 316 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/57.a.ba
+2.  ./Datasets/300_1.9_0.5/57.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 373 ms.
+Time used(ms) for Parallel Version: 303 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/58.a.ba
+2.  ./Datasets/300_1.9_0.5/58.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2369 ms.
+Time used(ms) for Parallel Version: 1674 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/59.a.ba
+2.  ./Datasets/300_1.9_0.5/59.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 508 ms.
+Time used(ms) for Parallel Version: 325 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/60.a.ba
+2.  ./Datasets/300_1.9_0.5/60.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 414 ms.
+Time used(ms) for Parallel Version: 340 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/61.a.ba
+2.  ./Datasets/300_1.9_0.5/61.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3869 ms.
+Time used(ms) for Parallel Version: 1425 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/62.a.ba
+2.  ./Datasets/300_1.9_0.5/62.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 314 ms.
+Time used(ms) for Parallel Version: 280 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/63.a.ba
+2.  ./Datasets/300_1.9_0.5/63.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 389 ms.
+Time used(ms) for Parallel Version: 341 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/64.a.ba
+2.  ./Datasets/300_1.9_0.5/64.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1380 ms.
+Time used(ms) for Parallel Version: 1111 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/65.a.ba
+2.  ./Datasets/300_1.9_0.5/65.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 319 ms.
+Time used(ms) for Parallel Version: 276 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/66.a.ba
+2.  ./Datasets/300_1.9_0.5/66.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2248 ms.
+Time used(ms) for Parallel Version: 1099 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/67.a.ba
+2.  ./Datasets/300_1.9_0.5/67.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 407 ms.
+Time used(ms) for Parallel Version: 401 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/68.a.ba
+2.  ./Datasets/300_1.9_0.5/68.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 339 ms.
+Time used(ms) for Parallel Version: 318 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/69.a.ba
+2.  ./Datasets/300_1.9_0.5/69.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 330 ms.
+Time used(ms) for Parallel Version: 339 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/70.a.ba
+2.  ./Datasets/300_1.9_0.5/70.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 348 ms.
+Time used(ms) for Parallel Version: 281 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/71.a.ba
+2.  ./Datasets/300_1.9_0.5/71.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 496 ms.
+Time used(ms) for Parallel Version: 332 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/72.a.ba
+2.  ./Datasets/300_1.9_0.5/72.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 342 ms.
+Time used(ms) for Parallel Version: 305 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/73.a.ba
+2.  ./Datasets/300_1.9_0.5/73.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1220 ms.
+Time used(ms) for Parallel Version: 715 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/74.a.ba
+2.  ./Datasets/300_1.9_0.5/74.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 347 ms.
+Time used(ms) for Parallel Version: 278 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/75.a.ba
+2.  ./Datasets/300_1.9_0.5/75.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 416 ms.
+Time used(ms) for Parallel Version: 336 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/76.a.ba
+2.  ./Datasets/300_1.9_0.5/76.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 342 ms.
+Time used(ms) for Parallel Version: 310 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/77.a.ba
+2.  ./Datasets/300_1.9_0.5/77.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 308 ms.
+Time used(ms) for Parallel Version: 257 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/78.a.ba
+2.  ./Datasets/300_1.9_0.5/78.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3845 ms.
+Time used(ms) for Parallel Version: 1326 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/79.a.ba
+2.  ./Datasets/300_1.9_0.5/79.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6396 ms.
+Time used(ms) for Parallel Version: 2073 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/80.a.ba
+2.  ./Datasets/300_1.9_0.5/80.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 430 ms.
+Time used(ms) for Parallel Version: 302 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/81.a.ba
+2.  ./Datasets/300_1.9_0.5/81.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 353 ms.
+Time used(ms) for Parallel Version: 307 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/82.a.ba
+2.  ./Datasets/300_1.9_0.5/82.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 20749 ms.
+Time used(ms) for Parallel Version: 8374 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/83.a.ba
+2.  ./Datasets/300_1.9_0.5/83.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2113 ms.
+Time used(ms) for Parallel Version: 822 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/84.a.ba
+2.  ./Datasets/300_1.9_0.5/84.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 452 ms.
+Time used(ms) for Parallel Version: 316 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/85.a.ba
+2.  ./Datasets/300_1.9_0.5/85.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 431 ms.
+Time used(ms) for Parallel Version: 338 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/86.a.ba
+2.  ./Datasets/300_1.9_0.5/86.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3343 ms.
+Time used(ms) for Parallel Version: 1216 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/87.a.ba
+2.  ./Datasets/300_1.9_0.5/87.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 557 ms.
+Time used(ms) for Parallel Version: 440 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/88.a.ba
+2.  ./Datasets/300_1.9_0.5/88.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 428 ms.
+Time used(ms) for Parallel Version: 406 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/89.a.ba
+2.  ./Datasets/300_1.9_0.5/89.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3861 ms.
+Time used(ms) for Parallel Version: 1412 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/90.a.ba
+2.  ./Datasets/300_1.9_0.5/90.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 11127 ms.
+Time used(ms) for Parallel Version: 4105 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/91.a.ba
+2.  ./Datasets/300_1.9_0.5/91.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 441 ms.
+Time used(ms) for Parallel Version: 406 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/92.a.ba
+2.  ./Datasets/300_1.9_0.5/92.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 8048 ms.
+Time used(ms) for Parallel Version: 3302 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/93.a.ba
+2.  ./Datasets/300_1.9_0.5/93.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 431 ms.
+Time used(ms) for Parallel Version: 419 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/94.a.ba
+2.  ./Datasets/300_1.9_0.5/94.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 399 ms.
+Time used(ms) for Parallel Version: 334 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/95.a.ba
+2.  ./Datasets/300_1.9_0.5/95.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 981 ms.
+Time used(ms) for Parallel Version: 847 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/96.a.ba
+2.  ./Datasets/300_1.9_0.5/96.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 378 ms.
+Time used(ms) for Parallel Version: 350 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/97.a.ba
+2.  ./Datasets/300_1.9_0.5/97.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1672 ms.
+Time used(ms) for Parallel Version: 1074 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/98.a.ba
+2.  ./Datasets/300_1.9_0.5/98.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 576 ms.
+Time used(ms) for Parallel Version: 379 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/99.a.ba
+2.  ./Datasets/300_1.9_0.5/99.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 325 ms.
+Time used(ms) for Parallel Version: 380 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/100.a.ba
+2.  ./Datasets/300_1.9_0.5/100.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 11812 ms.
+Time used(ms) for Parallel Version: 3631 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/101.a.ba
+2.  ./Datasets/300_1.9_0.5/101.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2023 ms.
+Time used(ms) for Parallel Version: 1193 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/102.a.ba
+2.  ./Datasets/300_1.9_0.5/102.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 343 ms.
+Time used(ms) for Parallel Version: 297 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/103.a.ba
+2.  ./Datasets/300_1.9_0.5/103.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 353 ms.
+Time used(ms) for Parallel Version: 391 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/104.a.ba
+2.  ./Datasets/300_1.9_0.5/104.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 349 ms.
+Time used(ms) for Parallel Version: 301 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/105.a.ba
+2.  ./Datasets/300_1.9_0.5/105.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2624 ms.
+Time used(ms) for Parallel Version: 1494 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/106.a.ba
+2.  ./Datasets/300_1.9_0.5/106.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1271 ms.
+Time used(ms) for Parallel Version: 847 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/107.a.ba
+2.  ./Datasets/300_1.9_0.5/107.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6278 ms.
+Time used(ms) for Parallel Version: 2940 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/108.a.ba
+2.  ./Datasets/300_1.9_0.5/108.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 379 ms.
+Time used(ms) for Parallel Version: 360 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/109.a.ba
+2.  ./Datasets/300_1.9_0.5/109.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 466 ms.
+Time used(ms) for Parallel Version: 321 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/110.a.ba
+2.  ./Datasets/300_1.9_0.5/110.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 9306 ms.
+Time used(ms) for Parallel Version: 2538 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/111.a.ba
+2.  ./Datasets/300_1.9_0.5/111.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 938 ms.
+Time used(ms) for Parallel Version: 582 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/112.a.ba
+2.  ./Datasets/300_1.9_0.5/112.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4734 ms.
+Time used(ms) for Parallel Version: 1849 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/113.a.ba
+2.  ./Datasets/300_1.9_0.5/113.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 476 ms.
+Time used(ms) for Parallel Version: 447 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/114.a.ba
+2.  ./Datasets/300_1.9_0.5/114.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1582 ms.
+Time used(ms) for Parallel Version: 996 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/115.a.ba
+2.  ./Datasets/300_1.9_0.5/115.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 403 ms.
+Time used(ms) for Parallel Version: 445 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/116.a.ba
+2.  ./Datasets/300_1.9_0.5/116.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1529 ms.
+Time used(ms) for Parallel Version: 865 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/117.a.ba
+2.  ./Datasets/300_1.9_0.5/117.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 329 ms.
+Time used(ms) for Parallel Version: 283 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/118.a.ba
+2.  ./Datasets/300_1.9_0.5/118.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4901 ms.
+Time used(ms) for Parallel Version: 1845 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/119.a.ba
+2.  ./Datasets/300_1.9_0.5/119.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2243 ms.
+Time used(ms) for Parallel Version: 1197 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/120.a.ba
+2.  ./Datasets/300_1.9_0.5/120.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 387 ms.
+Time used(ms) for Parallel Version: 327 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/121.a.ba
+2.  ./Datasets/300_1.9_0.5/121.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 11292 ms.
+Time used(ms) for Parallel Version: 2890 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/122.a.ba
+2.  ./Datasets/300_1.9_0.5/122.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 421 ms.
+Time used(ms) for Parallel Version: 328 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/123.a.ba
+2.  ./Datasets/300_1.9_0.5/123.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 330 ms.
+Time used(ms) for Parallel Version: 332 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/124.a.ba
+2.  ./Datasets/300_1.9_0.5/124.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5831 ms.
+Time used(ms) for Parallel Version: 1836 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/125.a.ba
+2.  ./Datasets/300_1.9_0.5/125.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2014 ms.
+Time used(ms) for Parallel Version: 999 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/126.a.ba
+2.  ./Datasets/300_1.9_0.5/126.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 13013 ms.
+Time used(ms) for Parallel Version: 3554 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/127.a.ba
+2.  ./Datasets/300_1.9_0.5/127.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2971 ms.
+Time used(ms) for Parallel Version: 1312 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/128.a.ba
+2.  ./Datasets/300_1.9_0.5/128.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3548 ms.
+Time used(ms) for Parallel Version: 1398 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/129.a.ba
+2.  ./Datasets/300_1.9_0.5/129.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 461 ms.
+Time used(ms) for Parallel Version: 350 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/130.a.ba
+2.  ./Datasets/300_1.9_0.5/130.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1888 ms.
+Time used(ms) for Parallel Version: 1089 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/131.a.ba
+2.  ./Datasets/300_1.9_0.5/131.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2885 ms.
+Time used(ms) for Parallel Version: 1467 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/132.a.ba
+2.  ./Datasets/300_1.9_0.5/132.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1730 ms.
+Time used(ms) for Parallel Version: 815 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/133.a.ba
+2.  ./Datasets/300_1.9_0.5/133.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 417 ms.
+Time used(ms) for Parallel Version: 420 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/134.a.ba
+2.  ./Datasets/300_1.9_0.5/134.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1836 ms.
+Time used(ms) for Parallel Version: 1054 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/135.a.ba
+2.  ./Datasets/300_1.9_0.5/135.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 411 ms.
+Time used(ms) for Parallel Version: 338 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/136.a.ba
+2.  ./Datasets/300_1.9_0.5/136.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3533 ms.
+Time used(ms) for Parallel Version: 1331 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/137.a.ba
+2.  ./Datasets/300_1.9_0.5/137.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 349 ms.
+Time used(ms) for Parallel Version: 305 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/138.a.ba
+2.  ./Datasets/300_1.9_0.5/138.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1626 ms.
+Time used(ms) for Parallel Version: 809 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/139.a.ba
+2.  ./Datasets/300_1.9_0.5/139.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3643 ms.
+Time used(ms) for Parallel Version: 1650 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/140.a.ba
+2.  ./Datasets/300_1.9_0.5/140.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 824 ms.
+Time used(ms) for Parallel Version: 608 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/141.a.ba
+2.  ./Datasets/300_1.9_0.5/141.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4808 ms.
+Time used(ms) for Parallel Version: 1664 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/142.a.ba
+2.  ./Datasets/300_1.9_0.5/142.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 11222 ms.
+Time used(ms) for Parallel Version: 3918 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/143.a.ba
+2.  ./Datasets/300_1.9_0.5/143.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1534 ms.
+Time used(ms) for Parallel Version: 918 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/144.a.ba
+2.  ./Datasets/300_1.9_0.5/144.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 353 ms.
+Time used(ms) for Parallel Version: 350 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/145.a.ba
+2.  ./Datasets/300_1.9_0.5/145.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 345 ms.
+Time used(ms) for Parallel Version: 269 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/146.a.ba
+2.  ./Datasets/300_1.9_0.5/146.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5690 ms.
+Time used(ms) for Parallel Version: 1755 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/147.a.ba
+2.  ./Datasets/300_1.9_0.5/147.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3327 ms.
+Time used(ms) for Parallel Version: 1671 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/148.a.ba
+2.  ./Datasets/300_1.9_0.5/148.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 425 ms.
+Time used(ms) for Parallel Version: 368 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/149.a.ba
+2.  ./Datasets/300_1.9_0.5/149.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1217 ms.
+Time used(ms) for Parallel Version: 350 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/150.a.ba
+2.  ./Datasets/300_1.9_0.5/150.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 694 ms.
+Time used(ms) for Parallel Version: 414 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/151.a.ba
+2.  ./Datasets/300_1.9_0.5/151.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5164 ms.
+Time used(ms) for Parallel Version: 1969 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/152.a.ba
+2.  ./Datasets/300_1.9_0.5/152.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 372 ms.
+Time used(ms) for Parallel Version: 357 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/153.a.ba
+2.  ./Datasets/300_1.9_0.5/153.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 533 ms.
+Time used(ms) for Parallel Version: 852 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/154.a.ba
+2.  ./Datasets/300_1.9_0.5/154.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 360 ms.
+Time used(ms) for Parallel Version: 311 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/155.a.ba
+2.  ./Datasets/300_1.9_0.5/155.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1807 ms.
+Time used(ms) for Parallel Version: 666 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/156.a.ba
+2.  ./Datasets/300_1.9_0.5/156.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 391 ms.
+Time used(ms) for Parallel Version: 281 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/157.a.ba
+2.  ./Datasets/300_1.9_0.5/157.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 380 ms.
+Time used(ms) for Parallel Version: 290 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/158.a.ba
+2.  ./Datasets/300_1.9_0.5/158.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2473 ms.
+Time used(ms) for Parallel Version: 767 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/159.a.ba
+2.  ./Datasets/300_1.9_0.5/159.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2155 ms.
+Time used(ms) for Parallel Version: 1062 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/160.a.ba
+2.  ./Datasets/300_1.9_0.5/160.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 13658 ms.
+Time used(ms) for Parallel Version: 4126 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/161.a.ba
+2.  ./Datasets/300_1.9_0.5/161.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 329 ms.
+Time used(ms) for Parallel Version: 293 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/162.a.ba
+2.  ./Datasets/300_1.9_0.5/162.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 312 ms.
+Time used(ms) for Parallel Version: 264 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/163.a.ba
+2.  ./Datasets/300_1.9_0.5/163.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 314 ms.
+Time used(ms) for Parallel Version: 329 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/164.a.ba
+2.  ./Datasets/300_1.9_0.5/164.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 353 ms.
+Time used(ms) for Parallel Version: 352 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/165.a.ba
+2.  ./Datasets/300_1.9_0.5/165.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 937 ms.
+Time used(ms) for Parallel Version: 702 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/166.a.ba
+2.  ./Datasets/300_1.9_0.5/166.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 385 ms.
+Time used(ms) for Parallel Version: 266 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/167.a.ba
+2.  ./Datasets/300_1.9_0.5/167.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 7467 ms.
+Time used(ms) for Parallel Version: 2881 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/168.a.ba
+2.  ./Datasets/300_1.9_0.5/168.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 352 ms.
+Time used(ms) for Parallel Version: 765 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/169.a.ba
+2.  ./Datasets/300_1.9_0.5/169.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 460 ms.
+Time used(ms) for Parallel Version: 346 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/170.a.ba
+2.  ./Datasets/300_1.9_0.5/170.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4189 ms.
+Time used(ms) for Parallel Version: 1555 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/171.a.ba
+2.  ./Datasets/300_1.9_0.5/171.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 8055 ms.
+Time used(ms) for Parallel Version: 2418 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/172.a.ba
+2.  ./Datasets/300_1.9_0.5/172.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2771 ms.
+Time used(ms) for Parallel Version: 1235 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/173.a.ba
+2.  ./Datasets/300_1.9_0.5/173.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 499 ms.
+Time used(ms) for Parallel Version: 363 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/174.a.ba
+2.  ./Datasets/300_1.9_0.5/174.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 347 ms.
+Time used(ms) for Parallel Version: 303 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/175.a.ba
+2.  ./Datasets/300_1.9_0.5/175.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 428 ms.
+Time used(ms) for Parallel Version: 353 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/176.a.ba
+2.  ./Datasets/300_1.9_0.5/176.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2273 ms.
+Time used(ms) for Parallel Version: 1016 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/177.a.ba
+2.  ./Datasets/300_1.9_0.5/177.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4093 ms.
+Time used(ms) for Parallel Version: 1715 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/178.a.ba
+2.  ./Datasets/300_1.9_0.5/178.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2907 ms.
+Time used(ms) for Parallel Version: 1693 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/179.a.ba
+2.  ./Datasets/300_1.9_0.5/179.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 491 ms.
+Time used(ms) for Parallel Version: 461 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/180.a.ba
+2.  ./Datasets/300_1.9_0.5/180.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 838 ms.
+Time used(ms) for Parallel Version: 616 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/181.a.ba
+2.  ./Datasets/300_1.9_0.5/181.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6368 ms.
+Time used(ms) for Parallel Version: 2825 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/182.a.ba
+2.  ./Datasets/300_1.9_0.5/182.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 319 ms.
+Time used(ms) for Parallel Version: 285 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/183.a.ba
+2.  ./Datasets/300_1.9_0.5/183.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3348 ms.
+Time used(ms) for Parallel Version: 1265 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/184.a.ba
+2.  ./Datasets/300_1.9_0.5/184.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 420 ms.
+Time used(ms) for Parallel Version: 363 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/185.a.ba
+2.  ./Datasets/300_1.9_0.5/185.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2601 ms.
+Time used(ms) for Parallel Version: 1043 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/186.a.ba
+2.  ./Datasets/300_1.9_0.5/186.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3366 ms.
+Time used(ms) for Parallel Version: 1914 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/187.a.ba
+2.  ./Datasets/300_1.9_0.5/187.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 375 ms.
+Time used(ms) for Parallel Version: 330 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/188.a.ba
+2.  ./Datasets/300_1.9_0.5/188.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 382 ms.
+Time used(ms) for Parallel Version: 403 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/189.a.ba
+2.  ./Datasets/300_1.9_0.5/189.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 27221 ms.
+Time used(ms) for Parallel Version: 7805 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/190.a.ba
+2.  ./Datasets/300_1.9_0.5/190.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 379 ms.
+Time used(ms) for Parallel Version: 302 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/191.a.ba
+2.  ./Datasets/300_1.9_0.5/191.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1779 ms.
+Time used(ms) for Parallel Version: 909 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/192.a.ba
+2.  ./Datasets/300_1.9_0.5/192.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 418 ms.
+Time used(ms) for Parallel Version: 360 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/193.a.ba
+2.  ./Datasets/300_1.9_0.5/193.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 323 ms.
+Time used(ms) for Parallel Version: 279 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/194.a.ba
+2.  ./Datasets/300_1.9_0.5/194.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 365 ms.
+Time used(ms) for Parallel Version: 291 ms.
+
+The Jumping result is: false
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/195.a.ba
+2.  ./Datasets/300_1.9_0.5/195.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3383 ms.
+Time used(ms) for Parallel Version: 1367 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/196.a.ba
+2.  ./Datasets/300_1.9_0.5/196.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1726 ms.
+Time used(ms) for Parallel Version: 1260 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/197.a.ba
+2.  ./Datasets/300_1.9_0.5/197.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3248 ms.
+Time used(ms) for Parallel Version: 1268 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/198.a.ba
+2.  ./Datasets/300_1.9_0.5/198.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3962 ms.
+Time used(ms) for Parallel Version: 1548 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/199.a.ba
+2.  ./Datasets/300_1.9_0.5/199.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 8223 ms.
+Time used(ms) for Parallel Version: 2989 ms.
+
+The Jumping result is: true
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/200.a.ba
+2.  ./Datasets/300_1.9_0.5/200.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 355 ms.
+Time used(ms) for Parallel Version: 296 ms.
+
+The Jumping result is: false
+================================================

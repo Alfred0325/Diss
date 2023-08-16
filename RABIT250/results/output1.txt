@@ -1,0 +1,1273 @@
+** The reason why for each configuration run three times is that: even for the same sequential version, the running time could vary largely differently.
+
+The compared two automata files are: 
+1.  ./Examples/bakery.1.c.ba
+2.  ./Examples/fischer.3.c.ba
+
+The created processor number is:  8
+
+*************  La: 1, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2276 ms.
+Time used(ms) for Parallel Version: 5228 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2991 ms.
+Time used(ms) for Parallel Version: 2839 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2097 ms.
+Time used(ms) for Parallel Version: 2592 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2407 ms.
+Time used(ms) for Parallel Version: 2577 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2025 ms.
+Time used(ms) for Parallel Version: 2447 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2060 ms.
+Time used(ms) for Parallel Version: 2476 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2067 ms.
+Time used(ms) for Parallel Version: 2630 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2187 ms.
+Time used(ms) for Parallel Version: 2554 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2056 ms.
+Time used(ms) for Parallel Version: 2446 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2053 ms.
+Time used(ms) for Parallel Version: 2454 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2034 ms.
+Time used(ms) for Parallel Version: 2482 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2221 ms.
+Time used(ms) for Parallel Version: 2548 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2031 ms.
+Time used(ms) for Parallel Version: 2463 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2129 ms.
+Time used(ms) for Parallel Version: 2491 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2053 ms.
+Time used(ms) for Parallel Version: 2462 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2122 ms.
+Time used(ms) for Parallel Version: 2506 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2057 ms.
+Time used(ms) for Parallel Version: 2460 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2030 ms.
+Time used(ms) for Parallel Version: 2485 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2046 ms.
+Time used(ms) for Parallel Version: 2480 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2039 ms.
+Time used(ms) for Parallel Version: 2561 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2042 ms.
+Time used(ms) for Parallel Version: 2500 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2055 ms.
+Time used(ms) for Parallel Version: 2453 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2010 ms.
+Time used(ms) for Parallel Version: 2483 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2041 ms.
+Time used(ms) for Parallel Version: 2352 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2441 ms.
+Time used(ms) for Parallel Version: 2685 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2437 ms.
+Time used(ms) for Parallel Version: 2728 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2471 ms.
+Time used(ms) for Parallel Version: 2803 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2427 ms.
+Time used(ms) for Parallel Version: 2785 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2450 ms.
+Time used(ms) for Parallel Version: 2869 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2429 ms.
+Time used(ms) for Parallel Version: 2685 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2506 ms.
+Time used(ms) for Parallel Version: 2794 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2432 ms.
+Time used(ms) for Parallel Version: 2717 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2723 ms.
+Time used(ms) for Parallel Version: 3169 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2537 ms.
+Time used(ms) for Parallel Version: 2665 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2447 ms.
+Time used(ms) for Parallel Version: 2882 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2444 ms.
+Time used(ms) for Parallel Version: 2759 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2434 ms.
+Time used(ms) for Parallel Version: 2666 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2445 ms.
+Time used(ms) for Parallel Version: 2886 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2450 ms.
+Time used(ms) for Parallel Version: 2663 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2427 ms.
+Time used(ms) for Parallel Version: 2815 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2423 ms.
+Time used(ms) for Parallel Version: 2822 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2422 ms.
+Time used(ms) for Parallel Version: 2672 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2434 ms.
+Time used(ms) for Parallel Version: 2760 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2452 ms.
+Time used(ms) for Parallel Version: 2823 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2424 ms.
+Time used(ms) for Parallel Version: 2772 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2455 ms.
+Time used(ms) for Parallel Version: 2818 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2438 ms.
+Time used(ms) for Parallel Version: 2654 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2425 ms.
+Time used(ms) for Parallel Version: 2788 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6243 ms.
+Time used(ms) for Parallel Version: 7114 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4136 ms.
+Time used(ms) for Parallel Version: 3199 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3355 ms.
+Time used(ms) for Parallel Version: 3119 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3297 ms.
+Time used(ms) for Parallel Version: 3206 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3249 ms.
+Time used(ms) for Parallel Version: 3144 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3265 ms.
+Time used(ms) for Parallel Version: 3113 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3364 ms.
+Time used(ms) for Parallel Version: 3387 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3962 ms.
+Time used(ms) for Parallel Version: 7782 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6233 ms.
+Time used(ms) for Parallel Version: 3207 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3981 ms.
+Time used(ms) for Parallel Version: 3190 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3320 ms.
+Time used(ms) for Parallel Version: 3130 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3297 ms.
+Time used(ms) for Parallel Version: 3236 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3279 ms.
+Time used(ms) for Parallel Version: 3150 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3327 ms.
+Time used(ms) for Parallel Version: 3174 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3258 ms.
+Time used(ms) for Parallel Version: 3285 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3365 ms.
+Time used(ms) for Parallel Version: 3159 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3255 ms.
+Time used(ms) for Parallel Version: 3133 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3305 ms.
+Time used(ms) for Parallel Version: 3157 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3293 ms.
+Time used(ms) for Parallel Version: 3277 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3205 ms.
+Time used(ms) for Parallel Version: 3595 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3325 ms.
+Time used(ms) for Parallel Version: 3223 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3317 ms.
+Time used(ms) for Parallel Version: 3117 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3313 ms.
+Time used(ms) for Parallel Version: 3220 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3312 ms.
+Time used(ms) for Parallel Version: 3131 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4813 ms.
+Time used(ms) for Parallel Version: 4011 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4464 ms.
+Time used(ms) for Parallel Version: 3863 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4530 ms.
+Time used(ms) for Parallel Version: 3952 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4514 ms.
+Time used(ms) for Parallel Version: 4005 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4455 ms.
+Time used(ms) for Parallel Version: 3913 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4455 ms.
+Time used(ms) for Parallel Version: 4052 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4412 ms.
+Time used(ms) for Parallel Version: 3975 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4446 ms.
+Time used(ms) for Parallel Version: 3882 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4423 ms.
+Time used(ms) for Parallel Version: 3839 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4516 ms.
+Time used(ms) for Parallel Version: 3840 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4408 ms.
+Time used(ms) for Parallel Version: 4139 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4454 ms.
+Time used(ms) for Parallel Version: 3823 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4414 ms.
+Time used(ms) for Parallel Version: 3880 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4431 ms.
+Time used(ms) for Parallel Version: 3986 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6791 ms.
+Time used(ms) for Parallel Version: 3875 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4541 ms.
+Time used(ms) for Parallel Version: 3843 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4595 ms.
+Time used(ms) for Parallel Version: 3904 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4443 ms.
+Time used(ms) for Parallel Version: 3860 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4463 ms.
+Time used(ms) for Parallel Version: 3820 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4401 ms.
+Time used(ms) for Parallel Version: 5483 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4541 ms.
+Time used(ms) for Parallel Version: 3981 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4618 ms.
+Time used(ms) for Parallel Version: 3915 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4454 ms.
+Time used(ms) for Parallel Version: 3879 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4561 ms.
+Time used(ms) for Parallel Version: 3906 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6728 ms.
+Time used(ms) for Parallel Version: 5016 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6863 ms.
+Time used(ms) for Parallel Version: 4968 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 7190 ms.
+Time used(ms) for Parallel Version: 5090 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6936 ms.
+Time used(ms) for Parallel Version: 4943 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6788 ms.
+Time used(ms) for Parallel Version: 4943 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6707 ms.
+Time used(ms) for Parallel Version: 4923 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6723 ms.
+Time used(ms) for Parallel Version: 4938 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6752 ms.
+Time used(ms) for Parallel Version: 4955 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6745 ms.
+Time used(ms) for Parallel Version: 4925 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6991 ms.
+Time used(ms) for Parallel Version: 4953 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6942 ms.
+Time used(ms) for Parallel Version: 5235 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6698 ms.
+Time used(ms) for Parallel Version: 4972 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 8026 ms.
+Time used(ms) for Parallel Version: 4985 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6943 ms.
+Time used(ms) for Parallel Version: 4945 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6645 ms.
+Time used(ms) for Parallel Version: 4919 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6812 ms.
+Time used(ms) for Parallel Version: 5016 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6591 ms.
+Time used(ms) for Parallel Version: 4958 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 8084 ms.
+Time used(ms) for Parallel Version: 4985 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 7040 ms.
+Time used(ms) for Parallel Version: 5006 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 7318 ms.
+Time used(ms) for Parallel Version: 4939 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6616 ms.
+Time used(ms) for Parallel Version: 4969 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6892 ms.
+Time used(ms) for Parallel Version: 5059 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6829 ms.
+Time used(ms) for Parallel Version: 5195 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6715 ms.
+Time used(ms) for Parallel Version: 5184 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10041 ms.
+Time used(ms) for Parallel Version: 7566 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 28735 ms.
+Time used(ms) for Parallel Version: 7008 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10476 ms.
+Time used(ms) for Parallel Version: 6885 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10806 ms.
+Time used(ms) for Parallel Version: 7102 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10264 ms.
+Time used(ms) for Parallel Version: 8526 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10646 ms.
+Time used(ms) for Parallel Version: 7604 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10420 ms.
+Time used(ms) for Parallel Version: 6851 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10341 ms.
+Time used(ms) for Parallel Version: 7210 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10898 ms.
+Time used(ms) for Parallel Version: 7283 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10396 ms.
+Time used(ms) for Parallel Version: 7320 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10579 ms.
+Time used(ms) for Parallel Version: 6818 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10738 ms.
+Time used(ms) for Parallel Version: 6779 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10170 ms.
+Time used(ms) for Parallel Version: 6879 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9977 ms.
+Time used(ms) for Parallel Version: 6834 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 13800 ms.
+Time used(ms) for Parallel Version: 9622 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10035 ms.
+Time used(ms) for Parallel Version: 7287 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10355 ms.
+Time used(ms) for Parallel Version: 6972 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10887 ms.
+Time used(ms) for Parallel Version: 6899 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9962 ms.
+Time used(ms) for Parallel Version: 6813 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9991 ms.
+Time used(ms) for Parallel Version: 6877 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10067 ms.
+Time used(ms) for Parallel Version: 6881 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9961 ms.
+Time used(ms) for Parallel Version: 6782 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10064 ms.
+Time used(ms) for Parallel Version: 6924 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10509 ms.
+Time used(ms) for Parallel Version: 7313 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 16889 ms.
+Time used(ms) for Parallel Version: 10040 ms.
+
+================================================
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 19912 ms.
+Time used(ms) for Parallel Version: 16372 ms.
+
+================================================

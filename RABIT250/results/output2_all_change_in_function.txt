@@ -1,0 +1,46 @@
+
+The compared two automata files are: 
+1.  ./Examples/bakery.1.c.ba
+2.  ./Examples/fischer.3.c.ba
+
+The created processsor number is:  8
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 11383 ms.
+Time used(ms) for Parallel Version: 6980 ms.
+
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10216 ms.
+Time used(ms) for Parallel Version: 6899 ms.
+
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10433 ms.
+Time used(ms) for Parallel Version: 7049 ms.
+
+================================================
+
+The Running Time 4: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9838 ms.
+Time used(ms) for Parallel Version: 6843 ms.
+
+================================================
+
+The Running Time 5: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10109 ms.
+Time used(ms) for Parallel Version: 7105 ms.
+
+================================================

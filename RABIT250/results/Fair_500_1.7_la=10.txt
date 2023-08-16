@@ -1,0 +1,2401 @@
+
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/1.a.ba
+2.  ./Datasets/500_1.7_0.5/1.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 83530 ms.
+Time used(ms) for Parallel Version: 19522 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/2.a.ba
+2.  ./Datasets/500_1.7_0.5/2.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 49782 ms.
+Time used(ms) for Parallel Version: 19972 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/3.a.ba
+2.  ./Datasets/500_1.7_0.5/3.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 40565 ms.
+Time used(ms) for Parallel Version: 18520 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/4.a.ba
+2.  ./Datasets/500_1.7_0.5/4.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 155146 ms.
+Time used(ms) for Parallel Version: 47987 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/5.a.ba
+2.  ./Datasets/500_1.7_0.5/5.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 78497 ms.
+Time used(ms) for Parallel Version: 21042 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/6.a.ba
+2.  ./Datasets/500_1.7_0.5/6.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 111080 ms.
+Time used(ms) for Parallel Version: 36729 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/7.a.ba
+2.  ./Datasets/500_1.7_0.5/7.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 53917 ms.
+Time used(ms) for Parallel Version: 14300 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/8.a.ba
+2.  ./Datasets/500_1.7_0.5/8.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 125900 ms.
+Time used(ms) for Parallel Version: 47453 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/9.a.ba
+2.  ./Datasets/500_1.7_0.5/9.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 34358 ms.
+Time used(ms) for Parallel Version: 12097 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/10.a.ba
+2.  ./Datasets/500_1.7_0.5/10.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 53536 ms.
+Time used(ms) for Parallel Version: 20483 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/11.a.ba
+2.  ./Datasets/500_1.7_0.5/11.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 46397 ms.
+Time used(ms) for Parallel Version: 13708 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/12.a.ba
+2.  ./Datasets/500_1.7_0.5/12.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 49938 ms.
+Time used(ms) for Parallel Version: 11481 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/13.a.ba
+2.  ./Datasets/500_1.7_0.5/13.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 43165 ms.
+Time used(ms) for Parallel Version: 12800 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/14.a.ba
+2.  ./Datasets/500_1.7_0.5/14.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 33372 ms.
+Time used(ms) for Parallel Version: 20810 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/15.a.ba
+2.  ./Datasets/500_1.7_0.5/15.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 171930 ms.
+Time used(ms) for Parallel Version: 49791 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/16.a.ba
+2.  ./Datasets/500_1.7_0.5/16.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 109635 ms.
+Time used(ms) for Parallel Version: 56396 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/17.a.ba
+2.  ./Datasets/500_1.7_0.5/17.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 108620 ms.
+Time used(ms) for Parallel Version: 31635 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/18.a.ba
+2.  ./Datasets/500_1.7_0.5/18.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 70337 ms.
+Time used(ms) for Parallel Version: 23167 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/19.a.ba
+2.  ./Datasets/500_1.7_0.5/19.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 143585 ms.
+Time used(ms) for Parallel Version: 52130 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/20.a.ba
+2.  ./Datasets/500_1.7_0.5/20.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 46288 ms.
+Time used(ms) for Parallel Version: 17146 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/21.a.ba
+2.  ./Datasets/500_1.7_0.5/21.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 110647 ms.
+Time used(ms) for Parallel Version: 33702 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/22.a.ba
+2.  ./Datasets/500_1.7_0.5/22.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 50555 ms.
+Time used(ms) for Parallel Version: 16796 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/23.a.ba
+2.  ./Datasets/500_1.7_0.5/23.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 46987 ms.
+Time used(ms) for Parallel Version: 17169 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/24.a.ba
+2.  ./Datasets/500_1.7_0.5/24.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 58909 ms.
+Time used(ms) for Parallel Version: 23962 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/25.a.ba
+2.  ./Datasets/500_1.7_0.5/25.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 69521 ms.
+Time used(ms) for Parallel Version: 23594 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/26.a.ba
+2.  ./Datasets/500_1.7_0.5/26.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 78103 ms.
+Time used(ms) for Parallel Version: 22417 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/27.a.ba
+2.  ./Datasets/500_1.7_0.5/27.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 84069 ms.
+Time used(ms) for Parallel Version: 26460 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/28.a.ba
+2.  ./Datasets/500_1.7_0.5/28.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 34732 ms.
+Time used(ms) for Parallel Version: 13025 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/29.a.ba
+2.  ./Datasets/500_1.7_0.5/29.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 97825 ms.
+Time used(ms) for Parallel Version: 39038 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/30.a.ba
+2.  ./Datasets/500_1.7_0.5/30.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 97482 ms.
+Time used(ms) for Parallel Version: 27872 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/31.a.ba
+2.  ./Datasets/500_1.7_0.5/31.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 63927 ms.
+Time used(ms) for Parallel Version: 26338 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/32.a.ba
+2.  ./Datasets/500_1.7_0.5/32.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 69592 ms.
+Time used(ms) for Parallel Version: 28446 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/33.a.ba
+2.  ./Datasets/500_1.7_0.5/33.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 65723 ms.
+Time used(ms) for Parallel Version: 18714 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/34.a.ba
+2.  ./Datasets/500_1.7_0.5/34.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 249565 ms.
+Time used(ms) for Parallel Version: 78249 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/35.a.ba
+2.  ./Datasets/500_1.7_0.5/35.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 57476 ms.
+Time used(ms) for Parallel Version: 15766 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/36.a.ba
+2.  ./Datasets/500_1.7_0.5/36.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 36692 ms.
+Time used(ms) for Parallel Version: 10891 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/37.a.ba
+2.  ./Datasets/500_1.7_0.5/37.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 58066 ms.
+Time used(ms) for Parallel Version: 17487 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/38.a.ba
+2.  ./Datasets/500_1.7_0.5/38.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 248980 ms.
+Time used(ms) for Parallel Version: 74431 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/39.a.ba
+2.  ./Datasets/500_1.7_0.5/39.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 83637 ms.
+Time used(ms) for Parallel Version: 27978 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/40.a.ba
+2.  ./Datasets/500_1.7_0.5/40.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 23052 ms.
+Time used(ms) for Parallel Version: 8101 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/41.a.ba
+2.  ./Datasets/500_1.7_0.5/41.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 105987 ms.
+Time used(ms) for Parallel Version: 32643 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/42.a.ba
+2.  ./Datasets/500_1.7_0.5/42.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 51839 ms.
+Time used(ms) for Parallel Version: 18888 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/43.a.ba
+2.  ./Datasets/500_1.7_0.5/43.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 95963 ms.
+Time used(ms) for Parallel Version: 26467 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/44.a.ba
+2.  ./Datasets/500_1.7_0.5/44.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 40204 ms.
+Time used(ms) for Parallel Version: 12341 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/45.a.ba
+2.  ./Datasets/500_1.7_0.5/45.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 64778 ms.
+Time used(ms) for Parallel Version: 20215 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/46.a.ba
+2.  ./Datasets/500_1.7_0.5/46.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 21979 ms.
+Time used(ms) for Parallel Version: 10554 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/47.a.ba
+2.  ./Datasets/500_1.7_0.5/47.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 37738 ms.
+Time used(ms) for Parallel Version: 13063 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/48.a.ba
+2.  ./Datasets/500_1.7_0.5/48.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 91070 ms.
+Time used(ms) for Parallel Version: 33181 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/49.a.ba
+2.  ./Datasets/500_1.7_0.5/49.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 60190 ms.
+Time used(ms) for Parallel Version: 23170 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/50.a.ba
+2.  ./Datasets/500_1.7_0.5/50.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 31647 ms.
+Time used(ms) for Parallel Version: 12033 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/51.a.ba
+2.  ./Datasets/500_1.7_0.5/51.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 63795 ms.
+Time used(ms) for Parallel Version: 16999 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/52.a.ba
+2.  ./Datasets/500_1.7_0.5/52.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 39659 ms.
+Time used(ms) for Parallel Version: 13416 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/53.a.ba
+2.  ./Datasets/500_1.7_0.5/53.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 254902 ms.
+Time used(ms) for Parallel Version: 89781 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/54.a.ba
+2.  ./Datasets/500_1.7_0.5/54.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 177421 ms.
+Time used(ms) for Parallel Version: 57095 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/55.a.ba
+2.  ./Datasets/500_1.7_0.5/55.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 28301 ms.
+Time used(ms) for Parallel Version: 11678 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/56.a.ba
+2.  ./Datasets/500_1.7_0.5/56.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 63347 ms.
+Time used(ms) for Parallel Version: 20811 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/57.a.ba
+2.  ./Datasets/500_1.7_0.5/57.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 30596 ms.
+Time used(ms) for Parallel Version: 10995 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/58.a.ba
+2.  ./Datasets/500_1.7_0.5/58.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 46416 ms.
+Time used(ms) for Parallel Version: 16763 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/59.a.ba
+2.  ./Datasets/500_1.7_0.5/59.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 59345 ms.
+Time used(ms) for Parallel Version: 29579 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/60.a.ba
+2.  ./Datasets/500_1.7_0.5/60.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 52751 ms.
+Time used(ms) for Parallel Version: 14750 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/61.a.ba
+2.  ./Datasets/500_1.7_0.5/61.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 33056 ms.
+Time used(ms) for Parallel Version: 13559 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/62.a.ba
+2.  ./Datasets/500_1.7_0.5/62.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 30313 ms.
+Time used(ms) for Parallel Version: 11612 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/63.a.ba
+2.  ./Datasets/500_1.7_0.5/63.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 36465 ms.
+Time used(ms) for Parallel Version: 15912 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/64.a.ba
+2.  ./Datasets/500_1.7_0.5/64.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 25024 ms.
+Time used(ms) for Parallel Version: 7783 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/65.a.ba
+2.  ./Datasets/500_1.7_0.5/65.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 28749 ms.
+Time used(ms) for Parallel Version: 9507 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/66.a.ba
+2.  ./Datasets/500_1.7_0.5/66.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 53416 ms.
+Time used(ms) for Parallel Version: 21847 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/67.a.ba
+2.  ./Datasets/500_1.7_0.5/67.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 35177 ms.
+Time used(ms) for Parallel Version: 15813 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/68.a.ba
+2.  ./Datasets/500_1.7_0.5/68.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 116194 ms.
+Time used(ms) for Parallel Version: 29646 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/69.a.ba
+2.  ./Datasets/500_1.7_0.5/69.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 72490 ms.
+Time used(ms) for Parallel Version: 22681 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/70.a.ba
+2.  ./Datasets/500_1.7_0.5/70.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 56217 ms.
+Time used(ms) for Parallel Version: 19316 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/71.a.ba
+2.  ./Datasets/500_1.7_0.5/71.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 52533 ms.
+Time used(ms) for Parallel Version: 16735 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/72.a.ba
+2.  ./Datasets/500_1.7_0.5/72.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 124395 ms.
+Time used(ms) for Parallel Version: 39021 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/73.a.ba
+2.  ./Datasets/500_1.7_0.5/73.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 98315 ms.
+Time used(ms) for Parallel Version: 41385 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/74.a.ba
+2.  ./Datasets/500_1.7_0.5/74.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 134720 ms.
+Time used(ms) for Parallel Version: 39045 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/75.a.ba
+2.  ./Datasets/500_1.7_0.5/75.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 78709 ms.
+Time used(ms) for Parallel Version: 20541 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/76.a.ba
+2.  ./Datasets/500_1.7_0.5/76.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 47602 ms.
+Time used(ms) for Parallel Version: 16965 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/77.a.ba
+2.  ./Datasets/500_1.7_0.5/77.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 83694 ms.
+Time used(ms) for Parallel Version: 26021 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/78.a.ba
+2.  ./Datasets/500_1.7_0.5/78.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 38268 ms.
+Time used(ms) for Parallel Version: 14369 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/79.a.ba
+2.  ./Datasets/500_1.7_0.5/79.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 53355 ms.
+Time used(ms) for Parallel Version: 22154 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/80.a.ba
+2.  ./Datasets/500_1.7_0.5/80.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 65244 ms.
+Time used(ms) for Parallel Version: 24516 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/81.a.ba
+2.  ./Datasets/500_1.7_0.5/81.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 28091 ms.
+Time used(ms) for Parallel Version: 10012 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/82.a.ba
+2.  ./Datasets/500_1.7_0.5/82.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 89960 ms.
+Time used(ms) for Parallel Version: 22449 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/83.a.ba
+2.  ./Datasets/500_1.7_0.5/83.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 46206 ms.
+Time used(ms) for Parallel Version: 19199 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/84.a.ba
+2.  ./Datasets/500_1.7_0.5/84.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 70687 ms.
+Time used(ms) for Parallel Version: 20927 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/85.a.ba
+2.  ./Datasets/500_1.7_0.5/85.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 148916 ms.
+Time used(ms) for Parallel Version: 44002 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/86.a.ba
+2.  ./Datasets/500_1.7_0.5/86.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 65583 ms.
+Time used(ms) for Parallel Version: 16378 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/87.a.ba
+2.  ./Datasets/500_1.7_0.5/87.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 99419 ms.
+Time used(ms) for Parallel Version: 39697 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/88.a.ba
+2.  ./Datasets/500_1.7_0.5/88.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 51467 ms.
+Time used(ms) for Parallel Version: 15503 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/89.a.ba
+2.  ./Datasets/500_1.7_0.5/89.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 100235 ms.
+Time used(ms) for Parallel Version: 30683 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/90.a.ba
+2.  ./Datasets/500_1.7_0.5/90.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 132058 ms.
+Time used(ms) for Parallel Version: 49196 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/91.a.ba
+2.  ./Datasets/500_1.7_0.5/91.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 122484 ms.
+Time used(ms) for Parallel Version: 42902 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/92.a.ba
+2.  ./Datasets/500_1.7_0.5/92.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 83389 ms.
+Time used(ms) for Parallel Version: 29006 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/93.a.ba
+2.  ./Datasets/500_1.7_0.5/93.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 53802 ms.
+Time used(ms) for Parallel Version: 17186 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/94.a.ba
+2.  ./Datasets/500_1.7_0.5/94.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 90878 ms.
+Time used(ms) for Parallel Version: 21167 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/95.a.ba
+2.  ./Datasets/500_1.7_0.5/95.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 83391 ms.
+Time used(ms) for Parallel Version: 20925 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/96.a.ba
+2.  ./Datasets/500_1.7_0.5/96.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 103923 ms.
+Time used(ms) for Parallel Version: 35341 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/97.a.ba
+2.  ./Datasets/500_1.7_0.5/97.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 82615 ms.
+Time used(ms) for Parallel Version: 24925 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/98.a.ba
+2.  ./Datasets/500_1.7_0.5/98.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 33525 ms.
+Time used(ms) for Parallel Version: 11029 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/99.a.ba
+2.  ./Datasets/500_1.7_0.5/99.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 37607 ms.
+Time used(ms) for Parallel Version: 10442 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/100.a.ba
+2.  ./Datasets/500_1.7_0.5/100.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 60605 ms.
+Time used(ms) for Parallel Version: 21063 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/101.a.ba
+2.  ./Datasets/500_1.7_0.5/101.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 51603 ms.
+Time used(ms) for Parallel Version: 14598 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/102.a.ba
+2.  ./Datasets/500_1.7_0.5/102.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 44403 ms.
+Time used(ms) for Parallel Version: 13972 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/103.a.ba
+2.  ./Datasets/500_1.7_0.5/103.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 68258 ms.
+Time used(ms) for Parallel Version: 27615 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/104.a.ba
+2.  ./Datasets/500_1.7_0.5/104.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 40868 ms.
+Time used(ms) for Parallel Version: 17539 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/105.a.ba
+2.  ./Datasets/500_1.7_0.5/105.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 101240 ms.
+Time used(ms) for Parallel Version: 21902 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/106.a.ba
+2.  ./Datasets/500_1.7_0.5/106.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 150927 ms.
+Time used(ms) for Parallel Version: 36423 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/107.a.ba
+2.  ./Datasets/500_1.7_0.5/107.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 64025 ms.
+Time used(ms) for Parallel Version: 26116 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/108.a.ba
+2.  ./Datasets/500_1.7_0.5/108.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 30887 ms.
+Time used(ms) for Parallel Version: 15275 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/109.a.ba
+2.  ./Datasets/500_1.7_0.5/109.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 21895 ms.
+Time used(ms) for Parallel Version: 6975 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/110.a.ba
+2.  ./Datasets/500_1.7_0.5/110.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 177237 ms.
+Time used(ms) for Parallel Version: 53034 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/111.a.ba
+2.  ./Datasets/500_1.7_0.5/111.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 62162 ms.
+Time used(ms) for Parallel Version: 30448 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/112.a.ba
+2.  ./Datasets/500_1.7_0.5/112.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 51188 ms.
+Time used(ms) for Parallel Version: 28032 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/113.a.ba
+2.  ./Datasets/500_1.7_0.5/113.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 69973 ms.
+Time used(ms) for Parallel Version: 16358 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/114.a.ba
+2.  ./Datasets/500_1.7_0.5/114.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 56718 ms.
+Time used(ms) for Parallel Version: 19287 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/115.a.ba
+2.  ./Datasets/500_1.7_0.5/115.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 52166 ms.
+Time used(ms) for Parallel Version: 18230 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/116.a.ba
+2.  ./Datasets/500_1.7_0.5/116.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 42530 ms.
+Time used(ms) for Parallel Version: 15378 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/117.a.ba
+2.  ./Datasets/500_1.7_0.5/117.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 99624 ms.
+Time used(ms) for Parallel Version: 34450 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/118.a.ba
+2.  ./Datasets/500_1.7_0.5/118.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 32434 ms.
+Time used(ms) for Parallel Version: 8708 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/119.a.ba
+2.  ./Datasets/500_1.7_0.5/119.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 66106 ms.
+Time used(ms) for Parallel Version: 34521 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/120.a.ba
+2.  ./Datasets/500_1.7_0.5/120.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 39803 ms.
+Time used(ms) for Parallel Version: 11711 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/121.a.ba
+2.  ./Datasets/500_1.7_0.5/121.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 21926 ms.
+Time used(ms) for Parallel Version: 9959 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/122.a.ba
+2.  ./Datasets/500_1.7_0.5/122.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 247354 ms.
+Time used(ms) for Parallel Version: 86695 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/123.a.ba
+2.  ./Datasets/500_1.7_0.5/123.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 53380 ms.
+Time used(ms) for Parallel Version: 20509 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/124.a.ba
+2.  ./Datasets/500_1.7_0.5/124.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 78541 ms.
+Time used(ms) for Parallel Version: 24754 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/125.a.ba
+2.  ./Datasets/500_1.7_0.5/125.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 57616 ms.
+Time used(ms) for Parallel Version: 14956 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/126.a.ba
+2.  ./Datasets/500_1.7_0.5/126.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 34174 ms.
+Time used(ms) for Parallel Version: 11089 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/127.a.ba
+2.  ./Datasets/500_1.7_0.5/127.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 38057 ms.
+Time used(ms) for Parallel Version: 12388 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/128.a.ba
+2.  ./Datasets/500_1.7_0.5/128.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 105363 ms.
+Time used(ms) for Parallel Version: 38460 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/129.a.ba
+2.  ./Datasets/500_1.7_0.5/129.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 86966 ms.
+Time used(ms) for Parallel Version: 27402 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/130.a.ba
+2.  ./Datasets/500_1.7_0.5/130.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 61318 ms.
+Time used(ms) for Parallel Version: 19934 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/131.a.ba
+2.  ./Datasets/500_1.7_0.5/131.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 81988 ms.
+Time used(ms) for Parallel Version: 40554 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/132.a.ba
+2.  ./Datasets/500_1.7_0.5/132.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 98518 ms.
+Time used(ms) for Parallel Version: 32210 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/133.a.ba
+2.  ./Datasets/500_1.7_0.5/133.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 32440 ms.
+Time used(ms) for Parallel Version: 11350 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/134.a.ba
+2.  ./Datasets/500_1.7_0.5/134.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 122493 ms.
+Time used(ms) for Parallel Version: 34782 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/135.a.ba
+2.  ./Datasets/500_1.7_0.5/135.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 257172 ms.
+Time used(ms) for Parallel Version: 84700 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/136.a.ba
+2.  ./Datasets/500_1.7_0.5/136.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 121095 ms.
+Time used(ms) for Parallel Version: 41277 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/137.a.ba
+2.  ./Datasets/500_1.7_0.5/137.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 41584 ms.
+Time used(ms) for Parallel Version: 11871 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/138.a.ba
+2.  ./Datasets/500_1.7_0.5/138.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 43344 ms.
+Time used(ms) for Parallel Version: 16289 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/139.a.ba
+2.  ./Datasets/500_1.7_0.5/139.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 48629 ms.
+Time used(ms) for Parallel Version: 18068 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/140.a.ba
+2.  ./Datasets/500_1.7_0.5/140.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 42939 ms.
+Time used(ms) for Parallel Version: 15116 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/141.a.ba
+2.  ./Datasets/500_1.7_0.5/141.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 40479 ms.
+Time used(ms) for Parallel Version: 13689 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/142.a.ba
+2.  ./Datasets/500_1.7_0.5/142.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 59168 ms.
+Time used(ms) for Parallel Version: 17850 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/143.a.ba
+2.  ./Datasets/500_1.7_0.5/143.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 68694 ms.
+Time used(ms) for Parallel Version: 24937 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/144.a.ba
+2.  ./Datasets/500_1.7_0.5/144.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 37588 ms.
+Time used(ms) for Parallel Version: 13937 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/145.a.ba
+2.  ./Datasets/500_1.7_0.5/145.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 77406 ms.
+Time used(ms) for Parallel Version: 24864 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/146.a.ba
+2.  ./Datasets/500_1.7_0.5/146.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 43528 ms.
+Time used(ms) for Parallel Version: 11761 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/147.a.ba
+2.  ./Datasets/500_1.7_0.5/147.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 59518 ms.
+Time used(ms) for Parallel Version: 20593 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/148.a.ba
+2.  ./Datasets/500_1.7_0.5/148.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 57825 ms.
+Time used(ms) for Parallel Version: 14749 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/149.a.ba
+2.  ./Datasets/500_1.7_0.5/149.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 34292 ms.
+Time used(ms) for Parallel Version: 11004 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/150.a.ba
+2.  ./Datasets/500_1.7_0.5/150.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 74791 ms.
+Time used(ms) for Parallel Version: 21274 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/151.a.ba
+2.  ./Datasets/500_1.7_0.5/151.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 69115 ms.
+Time used(ms) for Parallel Version: 26786 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/152.a.ba
+2.  ./Datasets/500_1.7_0.5/152.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 88100 ms.
+Time used(ms) for Parallel Version: 27210 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/153.a.ba
+2.  ./Datasets/500_1.7_0.5/153.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 36543 ms.
+Time used(ms) for Parallel Version: 18382 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/154.a.ba
+2.  ./Datasets/500_1.7_0.5/154.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 94716 ms.
+Time used(ms) for Parallel Version: 25792 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/155.a.ba
+2.  ./Datasets/500_1.7_0.5/155.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 28385 ms.
+Time used(ms) for Parallel Version: 9616 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/156.a.ba
+2.  ./Datasets/500_1.7_0.5/156.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 129607 ms.
+Time used(ms) for Parallel Version: 47643 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/157.a.ba
+2.  ./Datasets/500_1.7_0.5/157.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 32221 ms.
+Time used(ms) for Parallel Version: 12317 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/158.a.ba
+2.  ./Datasets/500_1.7_0.5/158.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 69859 ms.
+Time used(ms) for Parallel Version: 17864 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/159.a.ba
+2.  ./Datasets/500_1.7_0.5/159.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 37441 ms.
+Time used(ms) for Parallel Version: 13620 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/160.a.ba
+2.  ./Datasets/500_1.7_0.5/160.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 229850 ms.
+Time used(ms) for Parallel Version: 60872 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/161.a.ba
+2.  ./Datasets/500_1.7_0.5/161.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 48164 ms.
+Time used(ms) for Parallel Version: 12676 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/162.a.ba
+2.  ./Datasets/500_1.7_0.5/162.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 61813 ms.
+Time used(ms) for Parallel Version: 19064 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/163.a.ba
+2.  ./Datasets/500_1.7_0.5/163.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 34741 ms.
+Time used(ms) for Parallel Version: 14726 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/164.a.ba
+2.  ./Datasets/500_1.7_0.5/164.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 119336 ms.
+Time used(ms) for Parallel Version: 28129 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/165.a.ba
+2.  ./Datasets/500_1.7_0.5/165.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 60500 ms.
+Time used(ms) for Parallel Version: 23837 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/166.a.ba
+2.  ./Datasets/500_1.7_0.5/166.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 182952 ms.
+Time used(ms) for Parallel Version: 40556 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/167.a.ba
+2.  ./Datasets/500_1.7_0.5/167.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 110911 ms.
+Time used(ms) for Parallel Version: 40572 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/168.a.ba
+2.  ./Datasets/500_1.7_0.5/168.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 36900 ms.
+Time used(ms) for Parallel Version: 13528 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/169.a.ba
+2.  ./Datasets/500_1.7_0.5/169.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 48129 ms.
+Time used(ms) for Parallel Version: 19115 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/170.a.ba
+2.  ./Datasets/500_1.7_0.5/170.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 107209 ms.
+Time used(ms) for Parallel Version: 32724 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/171.a.ba
+2.  ./Datasets/500_1.7_0.5/171.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 74121 ms.
+Time used(ms) for Parallel Version: 22422 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/172.a.ba
+2.  ./Datasets/500_1.7_0.5/172.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 49043 ms.
+Time used(ms) for Parallel Version: 14911 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/173.a.ba
+2.  ./Datasets/500_1.7_0.5/173.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 99444 ms.
+Time used(ms) for Parallel Version: 33729 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/174.a.ba
+2.  ./Datasets/500_1.7_0.5/174.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 63378 ms.
+Time used(ms) for Parallel Version: 23222 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/175.a.ba
+2.  ./Datasets/500_1.7_0.5/175.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 58967 ms.
+Time used(ms) for Parallel Version: 22063 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/176.a.ba
+2.  ./Datasets/500_1.7_0.5/176.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 71722 ms.
+Time used(ms) for Parallel Version: 27639 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/177.a.ba
+2.  ./Datasets/500_1.7_0.5/177.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 54216 ms.
+Time used(ms) for Parallel Version: 18835 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/178.a.ba
+2.  ./Datasets/500_1.7_0.5/178.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 31228 ms.
+Time used(ms) for Parallel Version: 13029 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/179.a.ba
+2.  ./Datasets/500_1.7_0.5/179.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 38727 ms.
+Time used(ms) for Parallel Version: 11756 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/180.a.ba
+2.  ./Datasets/500_1.7_0.5/180.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 111147 ms.
+Time used(ms) for Parallel Version: 39988 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/181.a.ba
+2.  ./Datasets/500_1.7_0.5/181.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 105667 ms.
+Time used(ms) for Parallel Version: 42397 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/182.a.ba
+2.  ./Datasets/500_1.7_0.5/182.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 129034 ms.
+Time used(ms) for Parallel Version: 46449 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/183.a.ba
+2.  ./Datasets/500_1.7_0.5/183.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 82813 ms.
+Time used(ms) for Parallel Version: 35270 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/184.a.ba
+2.  ./Datasets/500_1.7_0.5/184.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 90994 ms.
+Time used(ms) for Parallel Version: 34410 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/185.a.ba
+2.  ./Datasets/500_1.7_0.5/185.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 150696 ms.
+Time used(ms) for Parallel Version: 55409 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/186.a.ba
+2.  ./Datasets/500_1.7_0.5/186.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 75042 ms.
+Time used(ms) for Parallel Version: 29606 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/187.a.ba
+2.  ./Datasets/500_1.7_0.5/187.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 46359 ms.
+Time used(ms) for Parallel Version: 16568 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/188.a.ba
+2.  ./Datasets/500_1.7_0.5/188.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 85632 ms.
+Time used(ms) for Parallel Version: 25428 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/189.a.ba
+2.  ./Datasets/500_1.7_0.5/189.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 63921 ms.
+Time used(ms) for Parallel Version: 20553 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/190.a.ba
+2.  ./Datasets/500_1.7_0.5/190.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 35828 ms.
+Time used(ms) for Parallel Version: 10470 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/191.a.ba
+2.  ./Datasets/500_1.7_0.5/191.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 84984 ms.
+Time used(ms) for Parallel Version: 20796 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/192.a.ba
+2.  ./Datasets/500_1.7_0.5/192.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 32446 ms.
+Time used(ms) for Parallel Version: 10194 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/193.a.ba
+2.  ./Datasets/500_1.7_0.5/193.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 124122 ms.
+Time used(ms) for Parallel Version: 34585 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/194.a.ba
+2.  ./Datasets/500_1.7_0.5/194.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 138415 ms.
+Time used(ms) for Parallel Version: 57438 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/195.a.ba
+2.  ./Datasets/500_1.7_0.5/195.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 74874 ms.
+Time used(ms) for Parallel Version: 36848 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/196.a.ba
+2.  ./Datasets/500_1.7_0.5/196.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 79130 ms.
+Time used(ms) for Parallel Version: 23510 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/197.a.ba
+2.  ./Datasets/500_1.7_0.5/197.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 72753 ms.
+Time used(ms) for Parallel Version: 24025 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/198.a.ba
+2.  ./Datasets/500_1.7_0.5/198.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 49364 ms.
+Time used(ms) for Parallel Version: 12958 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/199.a.ba
+2.  ./Datasets/500_1.7_0.5/199.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 71945 ms.
+Time used(ms) for Parallel Version: 20964 ms.
+
+================================================
+The compared two automata files are: 
+1.  ./Datasets/500_1.7_0.5/200.a.ba
+2.  ./Datasets/500_1.7_0.5/200.b.ba
+
+The created processsor number is:  8
+
+The Running Time: 
+--------------------------------------------------
+Time used(ms) for Original Version: 57836 ms.
+Time used(ms) for Parallel Version: 18340 ms.
+
+================================================

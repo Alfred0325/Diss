@@ -1,0 +1,77 @@
+
+The compared two automata files are: 
+1.  ./Examples/bakery.1.c.ba
+2.  ./Examples/fischer.3.c.ba
+
+The Running Time 1: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4310 ms.
+Time used(ms) for Parallel Version: 3703 ms.
+
+Correct! The calculated parallel result is the same as the sequential result!
+================================================
+
+The Running Time 2: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2684 ms.
+Time used(ms) for Parallel Version: 8144 ms.
+
+Correct! The calculated parallel result is the same as the sequential result!
+================================================
+
+The Running Time 3: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 7612 ms.
+Time used(ms) for Parallel Version: 7468 ms.
+
+Correct! The calculated parallel result is the same as the sequential result!
+================================================
+
+The Running Time 4: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3466 ms.
+Time used(ms) for Parallel Version: 3732 ms.
+
+Correct! The calculated parallel result is the same as the sequential result!
+================================================
+
+The Running Time 5: 
+Parallelism level of the custom pool: 8, and the current active threads: 0
+--------------------------------------------------
+Time used(ms) for Sequential Version: 5540 ms.
+Time used(ms) for Parallel Version: 3194 ms.
+
+Correct! The calculated parallel result is the same as the sequential result!
+================================================
+
+
+
+
+
+while(changed_y.get()){
+				changed_y.set(false);
+				for (int i = 0; i < BLAFair_getavoid_devideNum; i++){
+					final int start = i * (n/BLAFair_getavoid_devideNum);
+					final int end = i == BLAFair_getavoid_devideNum-1 ? n : (i+1)*(n/BLAFair_getavoid_devideNum);
+
+					customForkJoinPool.submit(() -> {
+						for(int p = start; p < end; p++) {
+							for (int q = 0; q < n; q++) {
+								if (Y[p][q]) continue; // If Y true then stay true
+								if (isFinal[q])
+									continue; // In getavoid duplicator can't accept, except in W (the part of Y in W is already true; see above)
+								attack[0] = p;
+								if (BLAFair_getavoid_attack(q, isFinal, n_symbols, post, post_len, W, X, Y, la, attack, 0)) {
+									Y[p][q] = true;
+									changed_y.set(true);
+								}
+							}
+						}
+					}).join();
+				}
+
+			}

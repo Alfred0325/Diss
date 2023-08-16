@@ -1,0 +1,3001 @@
+
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/1.a.ba
+2.  ./Datasets/300_1.9_0.5/1.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 12245 ms.
+Time used(ms) for Parallel Version: 4335 ms.
+
+The Fair size is: 120647
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/2.a.ba
+2.  ./Datasets/300_1.9_0.5/2.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2006 ms.
+Time used(ms) for Parallel Version: 1176 ms.
+
+The Fair size is: 159746
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/3.a.ba
+2.  ./Datasets/300_1.9_0.5/3.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2086 ms.
+Time used(ms) for Parallel Version: 928 ms.
+
+The Fair size is: 194798
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/4.a.ba
+2.  ./Datasets/300_1.9_0.5/4.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1906 ms.
+Time used(ms) for Parallel Version: 1048 ms.
+
+The Fair size is: 165241
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/5.a.ba
+2.  ./Datasets/300_1.9_0.5/5.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3712 ms.
+Time used(ms) for Parallel Version: 2058 ms.
+
+The Fair size is: 149805
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/6.a.ba
+2.  ./Datasets/300_1.9_0.5/6.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4537 ms.
+Time used(ms) for Parallel Version: 3198 ms.
+
+The Fair size is: 149170
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/7.a.ba
+2.  ./Datasets/300_1.9_0.5/7.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2476 ms.
+Time used(ms) for Parallel Version: 1559 ms.
+
+The Fair size is: 174730
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/8.a.ba
+2.  ./Datasets/300_1.9_0.5/8.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4594 ms.
+Time used(ms) for Parallel Version: 2371 ms.
+
+The Fair size is: 158595
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/9.a.ba
+2.  ./Datasets/300_1.9_0.5/9.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 16060 ms.
+Time used(ms) for Parallel Version: 4191 ms.
+
+The Fair size is: 131873
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/10.a.ba
+2.  ./Datasets/300_1.9_0.5/10.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2535 ms.
+Time used(ms) for Parallel Version: 1224 ms.
+
+The Fair size is: 170050
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/11.a.ba
+2.  ./Datasets/300_1.9_0.5/11.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3264 ms.
+Time used(ms) for Parallel Version: 1295 ms.
+
+The Fair size is: 154519
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/12.a.ba
+2.  ./Datasets/300_1.9_0.5/12.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2303 ms.
+Time used(ms) for Parallel Version: 1929 ms.
+
+The Fair size is: 156406
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/13.a.ba
+2.  ./Datasets/300_1.9_0.5/13.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6390 ms.
+Time used(ms) for Parallel Version: 2389 ms.
+
+The Fair size is: 130144
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/14.a.ba
+2.  ./Datasets/300_1.9_0.5/14.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5872 ms.
+Time used(ms) for Parallel Version: 2562 ms.
+
+The Fair size is: 146265
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/15.a.ba
+2.  ./Datasets/300_1.9_0.5/15.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 8778 ms.
+Time used(ms) for Parallel Version: 2454 ms.
+
+The Fair size is: 156156
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/16.a.ba
+2.  ./Datasets/300_1.9_0.5/16.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2189 ms.
+Time used(ms) for Parallel Version: 1088 ms.
+
+The Fair size is: 166167
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/17.a.ba
+2.  ./Datasets/300_1.9_0.5/17.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 11983 ms.
+Time used(ms) for Parallel Version: 3328 ms.
+
+The Fair size is: 128197
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/18.a.ba
+2.  ./Datasets/300_1.9_0.5/18.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5698 ms.
+Time used(ms) for Parallel Version: 1709 ms.
+
+The Fair size is: 164949
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/19.a.ba
+2.  ./Datasets/300_1.9_0.5/19.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1980 ms.
+Time used(ms) for Parallel Version: 1149 ms.
+
+The Fair size is: 160623
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/20.a.ba
+2.  ./Datasets/300_1.9_0.5/20.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3146 ms.
+Time used(ms) for Parallel Version: 1260 ms.
+
+The Fair size is: 149247
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/21.a.ba
+2.  ./Datasets/300_1.9_0.5/21.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1925 ms.
+Time used(ms) for Parallel Version: 969 ms.
+
+The Fair size is: 170248
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/22.a.ba
+2.  ./Datasets/300_1.9_0.5/22.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3881 ms.
+Time used(ms) for Parallel Version: 1389 ms.
+
+The Fair size is: 149763
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/23.a.ba
+2.  ./Datasets/300_1.9_0.5/23.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 11092 ms.
+Time used(ms) for Parallel Version: 3566 ms.
+
+The Fair size is: 143553
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/24.a.ba
+2.  ./Datasets/300_1.9_0.5/24.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4085 ms.
+Time used(ms) for Parallel Version: 1724 ms.
+
+The Fair size is: 133592
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/25.a.ba
+2.  ./Datasets/300_1.9_0.5/25.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4130 ms.
+Time used(ms) for Parallel Version: 2297 ms.
+
+The Fair size is: 136711
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/26.a.ba
+2.  ./Datasets/300_1.9_0.5/26.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1394 ms.
+Time used(ms) for Parallel Version: 1453 ms.
+
+The Fair size is: 180468
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/27.a.ba
+2.  ./Datasets/300_1.9_0.5/27.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2225 ms.
+Time used(ms) for Parallel Version: 1458 ms.
+
+The Fair size is: 155124
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/28.a.ba
+2.  ./Datasets/300_1.9_0.5/28.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6805 ms.
+Time used(ms) for Parallel Version: 2361 ms.
+
+The Fair size is: 143989
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/29.a.ba
+2.  ./Datasets/300_1.9_0.5/29.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3446 ms.
+Time used(ms) for Parallel Version: 1981 ms.
+
+The Fair size is: 150550
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/30.a.ba
+2.  ./Datasets/300_1.9_0.5/30.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5368 ms.
+Time used(ms) for Parallel Version: 1967 ms.
+
+The Fair size is: 139888
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/31.a.ba
+2.  ./Datasets/300_1.9_0.5/31.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6626 ms.
+Time used(ms) for Parallel Version: 2448 ms.
+
+The Fair size is: 157643
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/32.a.ba
+2.  ./Datasets/300_1.9_0.5/32.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2231 ms.
+Time used(ms) for Parallel Version: 1298 ms.
+
+The Fair size is: 158656
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/33.a.ba
+2.  ./Datasets/300_1.9_0.5/33.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1251 ms.
+Time used(ms) for Parallel Version: 995 ms.
+
+The Fair size is: 175396
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/34.a.ba
+2.  ./Datasets/300_1.9_0.5/34.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2395 ms.
+Time used(ms) for Parallel Version: 1628 ms.
+
+The Fair size is: 159904
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/35.a.ba
+2.  ./Datasets/300_1.9_0.5/35.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3071 ms.
+Time used(ms) for Parallel Version: 1556 ms.
+
+The Fair size is: 146417
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/36.a.ba
+2.  ./Datasets/300_1.9_0.5/36.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4963 ms.
+Time used(ms) for Parallel Version: 1691 ms.
+
+The Fair size is: 141875
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/37.a.ba
+2.  ./Datasets/300_1.9_0.5/37.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4290 ms.
+Time used(ms) for Parallel Version: 2515 ms.
+
+The Fair size is: 144989
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/38.a.ba
+2.  ./Datasets/300_1.9_0.5/38.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2253 ms.
+Time used(ms) for Parallel Version: 1224 ms.
+
+The Fair size is: 163688
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/39.a.ba
+2.  ./Datasets/300_1.9_0.5/39.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1963 ms.
+Time used(ms) for Parallel Version: 1476 ms.
+
+The Fair size is: 163206
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/40.a.ba
+2.  ./Datasets/300_1.9_0.5/40.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4179 ms.
+Time used(ms) for Parallel Version: 1430 ms.
+
+The Fair size is: 134397
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/41.a.ba
+2.  ./Datasets/300_1.9_0.5/41.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 12659 ms.
+Time used(ms) for Parallel Version: 4390 ms.
+
+The Fair size is: 119055
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/42.a.ba
+2.  ./Datasets/300_1.9_0.5/42.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 16884 ms.
+Time used(ms) for Parallel Version: 4387 ms.
+
+The Fair size is: 124628
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/43.a.ba
+2.  ./Datasets/300_1.9_0.5/43.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3051 ms.
+Time used(ms) for Parallel Version: 1290 ms.
+
+The Fair size is: 147022
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/44.a.ba
+2.  ./Datasets/300_1.9_0.5/44.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4800 ms.
+Time used(ms) for Parallel Version: 2265 ms.
+
+The Fair size is: 138557
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/45.a.ba
+2.  ./Datasets/300_1.9_0.5/45.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6775 ms.
+Time used(ms) for Parallel Version: 2268 ms.
+
+The Fair size is: 134650
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/46.a.ba
+2.  ./Datasets/300_1.9_0.5/46.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2811 ms.
+Time used(ms) for Parallel Version: 1276 ms.
+
+The Fair size is: 149249
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/47.a.ba
+2.  ./Datasets/300_1.9_0.5/47.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2633 ms.
+Time used(ms) for Parallel Version: 1248 ms.
+
+The Fair size is: 170567
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/48.a.ba
+2.  ./Datasets/300_1.9_0.5/48.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4707 ms.
+Time used(ms) for Parallel Version: 2166 ms.
+
+The Fair size is: 135197
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/49.a.ba
+2.  ./Datasets/300_1.9_0.5/49.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1601 ms.
+Time used(ms) for Parallel Version: 988 ms.
+
+The Fair size is: 180268
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/50.a.ba
+2.  ./Datasets/300_1.9_0.5/50.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4597 ms.
+Time used(ms) for Parallel Version: 1809 ms.
+
+The Fair size is: 142653
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/51.a.ba
+2.  ./Datasets/300_1.9_0.5/51.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4377 ms.
+Time used(ms) for Parallel Version: 2167 ms.
+
+The Fair size is: 147961
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/52.a.ba
+2.  ./Datasets/300_1.9_0.5/52.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6868 ms.
+Time used(ms) for Parallel Version: 2131 ms.
+
+The Fair size is: 136630
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/53.a.ba
+2.  ./Datasets/300_1.9_0.5/53.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4087 ms.
+Time used(ms) for Parallel Version: 1841 ms.
+
+The Fair size is: 155852
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/54.a.ba
+2.  ./Datasets/300_1.9_0.5/54.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4939 ms.
+Time used(ms) for Parallel Version: 2487 ms.
+
+The Fair size is: 149740
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/55.a.ba
+2.  ./Datasets/300_1.9_0.5/55.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5756 ms.
+Time used(ms) for Parallel Version: 3551 ms.
+
+The Fair size is: 130520
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/56.a.ba
+2.  ./Datasets/300_1.9_0.5/56.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5671 ms.
+Time used(ms) for Parallel Version: 1946 ms.
+
+The Fair size is: 143198
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/57.a.ba
+2.  ./Datasets/300_1.9_0.5/57.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 18444 ms.
+Time used(ms) for Parallel Version: 4978 ms.
+
+The Fair size is: 120471
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/58.a.ba
+2.  ./Datasets/300_1.9_0.5/58.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3911 ms.
+Time used(ms) for Parallel Version: 1388 ms.
+
+The Fair size is: 169824
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/59.a.ba
+2.  ./Datasets/300_1.9_0.5/59.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6261 ms.
+Time used(ms) for Parallel Version: 2805 ms.
+
+The Fair size is: 127447
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/60.a.ba
+2.  ./Datasets/300_1.9_0.5/60.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4014 ms.
+Time used(ms) for Parallel Version: 1587 ms.
+
+The Fair size is: 138210
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/61.a.ba
+2.  ./Datasets/300_1.9_0.5/61.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 8466 ms.
+Time used(ms) for Parallel Version: 3414 ms.
+
+The Fair size is: 142191
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/62.a.ba
+2.  ./Datasets/300_1.9_0.5/62.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4731 ms.
+Time used(ms) for Parallel Version: 2157 ms.
+
+The Fair size is: 164463
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/63.a.ba
+2.  ./Datasets/300_1.9_0.5/63.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 7221 ms.
+Time used(ms) for Parallel Version: 2575 ms.
+
+The Fair size is: 165410
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/64.a.ba
+2.  ./Datasets/300_1.9_0.5/64.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3793 ms.
+Time used(ms) for Parallel Version: 1397 ms.
+
+The Fair size is: 163433
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/65.a.ba
+2.  ./Datasets/300_1.9_0.5/65.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2548 ms.
+Time used(ms) for Parallel Version: 1049 ms.
+
+The Fair size is: 150694
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/66.a.ba
+2.  ./Datasets/300_1.9_0.5/66.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3859 ms.
+Time used(ms) for Parallel Version: 1684 ms.
+
+The Fair size is: 148926
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/67.a.ba
+2.  ./Datasets/300_1.9_0.5/67.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2965 ms.
+Time used(ms) for Parallel Version: 1509 ms.
+
+The Fair size is: 151493
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/68.a.ba
+2.  ./Datasets/300_1.9_0.5/68.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 7102 ms.
+Time used(ms) for Parallel Version: 2084 ms.
+
+The Fair size is: 165754
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/69.a.ba
+2.  ./Datasets/300_1.9_0.5/69.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2839 ms.
+Time used(ms) for Parallel Version: 1577 ms.
+
+The Fair size is: 155896
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/70.a.ba
+2.  ./Datasets/300_1.9_0.5/70.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6000 ms.
+Time used(ms) for Parallel Version: 2727 ms.
+
+The Fair size is: 139045
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/71.a.ba
+2.  ./Datasets/300_1.9_0.5/71.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2448 ms.
+Time used(ms) for Parallel Version: 1291 ms.
+
+The Fair size is: 155948
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/72.a.ba
+2.  ./Datasets/300_1.9_0.5/72.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2710 ms.
+Time used(ms) for Parallel Version: 1614 ms.
+
+The Fair size is: 149446
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/73.a.ba
+2.  ./Datasets/300_1.9_0.5/73.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5492 ms.
+Time used(ms) for Parallel Version: 2168 ms.
+
+The Fair size is: 152332
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/74.a.ba
+2.  ./Datasets/300_1.9_0.5/74.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2780 ms.
+Time used(ms) for Parallel Version: 1389 ms.
+
+The Fair size is: 158827
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/75.a.ba
+2.  ./Datasets/300_1.9_0.5/75.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 7286 ms.
+Time used(ms) for Parallel Version: 2386 ms.
+
+The Fair size is: 139812
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/76.a.ba
+2.  ./Datasets/300_1.9_0.5/76.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4795 ms.
+Time used(ms) for Parallel Version: 2154 ms.
+
+The Fair size is: 135587
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/77.a.ba
+2.  ./Datasets/300_1.9_0.5/77.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2193 ms.
+Time used(ms) for Parallel Version: 1599 ms.
+
+The Fair size is: 164298
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/78.a.ba
+2.  ./Datasets/300_1.9_0.5/78.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2474 ms.
+Time used(ms) for Parallel Version: 1881 ms.
+
+The Fair size is: 147350
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/79.a.ba
+2.  ./Datasets/300_1.9_0.5/79.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4329 ms.
+Time used(ms) for Parallel Version: 1645 ms.
+
+The Fair size is: 147997
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/80.a.ba
+2.  ./Datasets/300_1.9_0.5/80.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 7865 ms.
+Time used(ms) for Parallel Version: 1825 ms.
+
+The Fair size is: 156394
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/81.a.ba
+2.  ./Datasets/300_1.9_0.5/81.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1815 ms.
+Time used(ms) for Parallel Version: 1194 ms.
+
+The Fair size is: 163063
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/82.a.ba
+2.  ./Datasets/300_1.9_0.5/82.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 13023 ms.
+Time used(ms) for Parallel Version: 2520 ms.
+
+The Fair size is: 152136
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/83.a.ba
+2.  ./Datasets/300_1.9_0.5/83.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2329 ms.
+Time used(ms) for Parallel Version: 1316 ms.
+
+The Fair size is: 165727
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/84.a.ba
+2.  ./Datasets/300_1.9_0.5/84.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6806 ms.
+Time used(ms) for Parallel Version: 1795 ms.
+
+The Fair size is: 165217
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/85.a.ba
+2.  ./Datasets/300_1.9_0.5/85.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6913 ms.
+Time used(ms) for Parallel Version: 2147 ms.
+
+The Fair size is: 138188
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/86.a.ba
+2.  ./Datasets/300_1.9_0.5/86.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3995 ms.
+Time used(ms) for Parallel Version: 1562 ms.
+
+The Fair size is: 149312
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/87.a.ba
+2.  ./Datasets/300_1.9_0.5/87.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1652 ms.
+Time used(ms) for Parallel Version: 1240 ms.
+
+The Fair size is: 178540
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/88.a.ba
+2.  ./Datasets/300_1.9_0.5/88.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4619 ms.
+Time used(ms) for Parallel Version: 1613 ms.
+
+The Fair size is: 145871
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/89.a.ba
+2.  ./Datasets/300_1.9_0.5/89.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3527 ms.
+Time used(ms) for Parallel Version: 2159 ms.
+
+The Fair size is: 143623
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/90.a.ba
+2.  ./Datasets/300_1.9_0.5/90.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6693 ms.
+Time used(ms) for Parallel Version: 1473 ms.
+
+The Fair size is: 159567
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/91.a.ba
+2.  ./Datasets/300_1.9_0.5/91.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1622 ms.
+Time used(ms) for Parallel Version: 1026 ms.
+
+The Fair size is: 155238
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/92.a.ba
+2.  ./Datasets/300_1.9_0.5/92.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 12668 ms.
+Time used(ms) for Parallel Version: 3311 ms.
+
+The Fair size is: 134872
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/93.a.ba
+2.  ./Datasets/300_1.9_0.5/93.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3126 ms.
+Time used(ms) for Parallel Version: 1714 ms.
+
+The Fair size is: 163623
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/94.a.ba
+2.  ./Datasets/300_1.9_0.5/94.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1760 ms.
+Time used(ms) for Parallel Version: 1073 ms.
+
+The Fair size is: 169806
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/95.a.ba
+2.  ./Datasets/300_1.9_0.5/95.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2865 ms.
+Time used(ms) for Parallel Version: 1504 ms.
+
+The Fair size is: 156667
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/96.a.ba
+2.  ./Datasets/300_1.9_0.5/96.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2011 ms.
+Time used(ms) for Parallel Version: 1361 ms.
+
+The Fair size is: 167356
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/97.a.ba
+2.  ./Datasets/300_1.9_0.5/97.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2520 ms.
+Time used(ms) for Parallel Version: 1613 ms.
+
+The Fair size is: 166458
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/98.a.ba
+2.  ./Datasets/300_1.9_0.5/98.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2195 ms.
+Time used(ms) for Parallel Version: 1117 ms.
+
+The Fair size is: 159023
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/99.a.ba
+2.  ./Datasets/300_1.9_0.5/99.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 13087 ms.
+Time used(ms) for Parallel Version: 3622 ms.
+
+The Fair size is: 135229
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/100.a.ba
+2.  ./Datasets/300_1.9_0.5/100.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5225 ms.
+Time used(ms) for Parallel Version: 2093 ms.
+
+The Fair size is: 157748
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/101.a.ba
+2.  ./Datasets/300_1.9_0.5/101.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 9586 ms.
+Time used(ms) for Parallel Version: 2903 ms.
+
+The Fair size is: 161150
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/102.a.ba
+2.  ./Datasets/300_1.9_0.5/102.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3548 ms.
+Time used(ms) for Parallel Version: 1668 ms.
+
+The Fair size is: 136614
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/103.a.ba
+2.  ./Datasets/300_1.9_0.5/103.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 9844 ms.
+Time used(ms) for Parallel Version: 3239 ms.
+
+The Fair size is: 145117
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/104.a.ba
+2.  ./Datasets/300_1.9_0.5/104.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2272 ms.
+Time used(ms) for Parallel Version: 1298 ms.
+
+The Fair size is: 162318
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/105.a.ba
+2.  ./Datasets/300_1.9_0.5/105.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3429 ms.
+Time used(ms) for Parallel Version: 1595 ms.
+
+The Fair size is: 143008
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/106.a.ba
+2.  ./Datasets/300_1.9_0.5/106.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 10925 ms.
+Time used(ms) for Parallel Version: 3216 ms.
+
+The Fair size is: 137917
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/107.a.ba
+2.  ./Datasets/300_1.9_0.5/107.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4372 ms.
+Time used(ms) for Parallel Version: 1937 ms.
+
+The Fair size is: 144722
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/108.a.ba
+2.  ./Datasets/300_1.9_0.5/108.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3482 ms.
+Time used(ms) for Parallel Version: 1945 ms.
+
+The Fair size is: 147503
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/109.a.ba
+2.  ./Datasets/300_1.9_0.5/109.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4047 ms.
+Time used(ms) for Parallel Version: 1410 ms.
+
+The Fair size is: 159439
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/110.a.ba
+2.  ./Datasets/300_1.9_0.5/110.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 10492 ms.
+Time used(ms) for Parallel Version: 2632 ms.
+
+The Fair size is: 127095
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/111.a.ba
+2.  ./Datasets/300_1.9_0.5/111.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2787 ms.
+Time used(ms) for Parallel Version: 1582 ms.
+
+The Fair size is: 150672
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/112.a.ba
+2.  ./Datasets/300_1.9_0.5/112.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2519 ms.
+Time used(ms) for Parallel Version: 1546 ms.
+
+The Fair size is: 149398
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/113.a.ba
+2.  ./Datasets/300_1.9_0.5/113.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5899 ms.
+Time used(ms) for Parallel Version: 2348 ms.
+
+The Fair size is: 164830
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/114.a.ba
+2.  ./Datasets/300_1.9_0.5/114.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2508 ms.
+Time used(ms) for Parallel Version: 1246 ms.
+
+The Fair size is: 148909
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/115.a.ba
+2.  ./Datasets/300_1.9_0.5/115.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2183 ms.
+Time used(ms) for Parallel Version: 957 ms.
+
+The Fair size is: 174405
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/116.a.ba
+2.  ./Datasets/300_1.9_0.5/116.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1685 ms.
+Time used(ms) for Parallel Version: 895 ms.
+
+The Fair size is: 162227
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/117.a.ba
+2.  ./Datasets/300_1.9_0.5/117.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1502 ms.
+Time used(ms) for Parallel Version: 836 ms.
+
+The Fair size is: 169225
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/118.a.ba
+2.  ./Datasets/300_1.9_0.5/118.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1675 ms.
+Time used(ms) for Parallel Version: 898 ms.
+
+The Fair size is: 162825
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/119.a.ba
+2.  ./Datasets/300_1.9_0.5/119.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2383 ms.
+Time used(ms) for Parallel Version: 1222 ms.
+
+The Fair size is: 148200
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/120.a.ba
+2.  ./Datasets/300_1.9_0.5/120.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 9932 ms.
+Time used(ms) for Parallel Version: 2812 ms.
+
+The Fair size is: 146678
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/121.a.ba
+2.  ./Datasets/300_1.9_0.5/121.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4133 ms.
+Time used(ms) for Parallel Version: 1408 ms.
+
+The Fair size is: 147796
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/122.a.ba
+2.  ./Datasets/300_1.9_0.5/122.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3719 ms.
+Time used(ms) for Parallel Version: 2245 ms.
+
+The Fair size is: 149450
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/123.a.ba
+2.  ./Datasets/300_1.9_0.5/123.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2451 ms.
+Time used(ms) for Parallel Version: 942 ms.
+
+The Fair size is: 173564
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/124.a.ba
+2.  ./Datasets/300_1.9_0.5/124.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3595 ms.
+Time used(ms) for Parallel Version: 1872 ms.
+
+The Fair size is: 151301
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/125.a.ba
+2.  ./Datasets/300_1.9_0.5/125.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2324 ms.
+Time used(ms) for Parallel Version: 1313 ms.
+
+The Fair size is: 178658
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/126.a.ba
+2.  ./Datasets/300_1.9_0.5/126.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4218 ms.
+Time used(ms) for Parallel Version: 1633 ms.
+
+The Fair size is: 153238
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/127.a.ba
+2.  ./Datasets/300_1.9_0.5/127.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 8805 ms.
+Time used(ms) for Parallel Version: 2498 ms.
+
+The Fair size is: 160169
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/128.a.ba
+2.  ./Datasets/300_1.9_0.5/128.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2343 ms.
+Time used(ms) for Parallel Version: 1135 ms.
+
+The Fair size is: 147652
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/129.a.ba
+2.  ./Datasets/300_1.9_0.5/129.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 7365 ms.
+Time used(ms) for Parallel Version: 2083 ms.
+
+The Fair size is: 155100
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/130.a.ba
+2.  ./Datasets/300_1.9_0.5/130.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2203 ms.
+Time used(ms) for Parallel Version: 1352 ms.
+
+The Fair size is: 162890
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/131.a.ba
+2.  ./Datasets/300_1.9_0.5/131.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3493 ms.
+Time used(ms) for Parallel Version: 1381 ms.
+
+The Fair size is: 158994
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/132.a.ba
+2.  ./Datasets/300_1.9_0.5/132.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3040 ms.
+Time used(ms) for Parallel Version: 1661 ms.
+
+The Fair size is: 156665
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/133.a.ba
+2.  ./Datasets/300_1.9_0.5/133.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 11116 ms.
+Time used(ms) for Parallel Version: 2762 ms.
+
+The Fair size is: 148424
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/134.a.ba
+2.  ./Datasets/300_1.9_0.5/134.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6791 ms.
+Time used(ms) for Parallel Version: 2096 ms.
+
+The Fair size is: 137383
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/135.a.ba
+2.  ./Datasets/300_1.9_0.5/135.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 14983 ms.
+Time used(ms) for Parallel Version: 3748 ms.
+
+The Fair size is: 169611
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/136.a.ba
+2.  ./Datasets/300_1.9_0.5/136.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 13056 ms.
+Time used(ms) for Parallel Version: 2676 ms.
+
+The Fair size is: 157194
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/137.a.ba
+2.  ./Datasets/300_1.9_0.5/137.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4646 ms.
+Time used(ms) for Parallel Version: 2163 ms.
+
+The Fair size is: 142117
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/138.a.ba
+2.  ./Datasets/300_1.9_0.5/138.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2308 ms.
+Time used(ms) for Parallel Version: 1415 ms.
+
+The Fair size is: 182095
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/139.a.ba
+2.  ./Datasets/300_1.9_0.5/139.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4794 ms.
+Time used(ms) for Parallel Version: 2696 ms.
+
+The Fair size is: 128132
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/140.a.ba
+2.  ./Datasets/300_1.9_0.5/140.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4405 ms.
+Time used(ms) for Parallel Version: 1836 ms.
+
+The Fair size is: 141614
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/141.a.ba
+2.  ./Datasets/300_1.9_0.5/141.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1943 ms.
+Time used(ms) for Parallel Version: 1100 ms.
+
+The Fair size is: 166679
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/142.a.ba
+2.  ./Datasets/300_1.9_0.5/142.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 12327 ms.
+Time used(ms) for Parallel Version: 3718 ms.
+
+The Fair size is: 138166
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/143.a.ba
+2.  ./Datasets/300_1.9_0.5/143.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1584 ms.
+Time used(ms) for Parallel Version: 906 ms.
+
+The Fair size is: 170462
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/144.a.ba
+2.  ./Datasets/300_1.9_0.5/144.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6021 ms.
+Time used(ms) for Parallel Version: 2584 ms.
+
+The Fair size is: 126925
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/145.a.ba
+2.  ./Datasets/300_1.9_0.5/145.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1783 ms.
+Time used(ms) for Parallel Version: 1059 ms.
+
+The Fair size is: 168602
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/146.a.ba
+2.  ./Datasets/300_1.9_0.5/146.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6323 ms.
+Time used(ms) for Parallel Version: 2818 ms.
+
+The Fair size is: 132248
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/147.a.ba
+2.  ./Datasets/300_1.9_0.5/147.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3667 ms.
+Time used(ms) for Parallel Version: 1907 ms.
+
+The Fair size is: 139923
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/148.a.ba
+2.  ./Datasets/300_1.9_0.5/148.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4759 ms.
+Time used(ms) for Parallel Version: 1775 ms.
+
+The Fair size is: 154688
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/149.a.ba
+2.  ./Datasets/300_1.9_0.5/149.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5201 ms.
+Time used(ms) for Parallel Version: 1871 ms.
+
+The Fair size is: 148934
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/150.a.ba
+2.  ./Datasets/300_1.9_0.5/150.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3172 ms.
+Time used(ms) for Parallel Version: 1212 ms.
+
+The Fair size is: 165264
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/151.a.ba
+2.  ./Datasets/300_1.9_0.5/151.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2998 ms.
+Time used(ms) for Parallel Version: 1515 ms.
+
+The Fair size is: 155437
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/152.a.ba
+2.  ./Datasets/300_1.9_0.5/152.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4552 ms.
+Time used(ms) for Parallel Version: 1615 ms.
+
+The Fair size is: 155221
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/153.a.ba
+2.  ./Datasets/300_1.9_0.5/153.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5938 ms.
+Time used(ms) for Parallel Version: 2164 ms.
+
+The Fair size is: 164501
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/154.a.ba
+2.  ./Datasets/300_1.9_0.5/154.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6028 ms.
+Time used(ms) for Parallel Version: 1797 ms.
+
+The Fair size is: 129533
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/155.a.ba
+2.  ./Datasets/300_1.9_0.5/155.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2408 ms.
+Time used(ms) for Parallel Version: 939 ms.
+
+The Fair size is: 155754
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/156.a.ba
+2.  ./Datasets/300_1.9_0.5/156.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 16703 ms.
+Time used(ms) for Parallel Version: 6672 ms.
+
+The Fair size is: 154643
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/157.a.ba
+2.  ./Datasets/300_1.9_0.5/157.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2233 ms.
+Time used(ms) for Parallel Version: 1216 ms.
+
+The Fair size is: 165348
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/158.a.ba
+2.  ./Datasets/300_1.9_0.5/158.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3511 ms.
+Time used(ms) for Parallel Version: 2163 ms.
+
+The Fair size is: 139130
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/159.a.ba
+2.  ./Datasets/300_1.9_0.5/159.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2253 ms.
+Time used(ms) for Parallel Version: 1520 ms.
+
+The Fair size is: 148935
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/160.a.ba
+2.  ./Datasets/300_1.9_0.5/160.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 8468 ms.
+Time used(ms) for Parallel Version: 3177 ms.
+
+The Fair size is: 148321
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/161.a.ba
+2.  ./Datasets/300_1.9_0.5/161.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3778 ms.
+Time used(ms) for Parallel Version: 1643 ms.
+
+The Fair size is: 140386
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/162.a.ba
+2.  ./Datasets/300_1.9_0.5/162.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3956 ms.
+Time used(ms) for Parallel Version: 2010 ms.
+
+The Fair size is: 134996
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/163.a.ba
+2.  ./Datasets/300_1.9_0.5/163.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3304 ms.
+Time used(ms) for Parallel Version: 3028 ms.
+
+The Fair size is: 181364
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/164.a.ba
+2.  ./Datasets/300_1.9_0.5/164.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 11993 ms.
+Time used(ms) for Parallel Version: 3540 ms.
+
+The Fair size is: 131195
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/165.a.ba
+2.  ./Datasets/300_1.9_0.5/165.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3144 ms.
+Time used(ms) for Parallel Version: 1665 ms.
+
+The Fair size is: 143139
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/166.a.ba
+2.  ./Datasets/300_1.9_0.5/166.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2394 ms.
+Time used(ms) for Parallel Version: 1284 ms.
+
+The Fair size is: 161213
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/167.a.ba
+2.  ./Datasets/300_1.9_0.5/167.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5961 ms.
+Time used(ms) for Parallel Version: 2817 ms.
+
+The Fair size is: 132360
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/168.a.ba
+2.  ./Datasets/300_1.9_0.5/168.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6935 ms.
+Time used(ms) for Parallel Version: 2154 ms.
+
+The Fair size is: 134762
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/169.a.ba
+2.  ./Datasets/300_1.9_0.5/169.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4990 ms.
+Time used(ms) for Parallel Version: 1716 ms.
+
+The Fair size is: 143502
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/170.a.ba
+2.  ./Datasets/300_1.9_0.5/170.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4811 ms.
+Time used(ms) for Parallel Version: 1826 ms.
+
+The Fair size is: 143817
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/171.a.ba
+2.  ./Datasets/300_1.9_0.5/171.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3378 ms.
+Time used(ms) for Parallel Version: 1484 ms.
+
+The Fair size is: 151236
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/172.a.ba
+2.  ./Datasets/300_1.9_0.5/172.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2452 ms.
+Time used(ms) for Parallel Version: 1242 ms.
+
+The Fair size is: 159405
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/173.a.ba
+2.  ./Datasets/300_1.9_0.5/173.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3730 ms.
+Time used(ms) for Parallel Version: 1852 ms.
+
+The Fair size is: 142537
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/174.a.ba
+2.  ./Datasets/300_1.9_0.5/174.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2712 ms.
+Time used(ms) for Parallel Version: 1336 ms.
+
+The Fair size is: 151193
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/175.a.ba
+2.  ./Datasets/300_1.9_0.5/175.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3235 ms.
+Time used(ms) for Parallel Version: 1516 ms.
+
+The Fair size is: 173848
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/176.a.ba
+2.  ./Datasets/300_1.9_0.5/176.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4527 ms.
+Time used(ms) for Parallel Version: 2300 ms.
+
+The Fair size is: 131505
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/177.a.ba
+2.  ./Datasets/300_1.9_0.5/177.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4800 ms.
+Time used(ms) for Parallel Version: 1826 ms.
+
+The Fair size is: 137710
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/178.a.ba
+2.  ./Datasets/300_1.9_0.5/178.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1641 ms.
+Time used(ms) for Parallel Version: 962 ms.
+
+The Fair size is: 169728
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/179.a.ba
+2.  ./Datasets/300_1.9_0.5/179.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3142 ms.
+Time used(ms) for Parallel Version: 1326 ms.
+
+The Fair size is: 160871
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/180.a.ba
+2.  ./Datasets/300_1.9_0.5/180.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4615 ms.
+Time used(ms) for Parallel Version: 1981 ms.
+
+The Fair size is: 145143
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/181.a.ba
+2.  ./Datasets/300_1.9_0.5/181.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5392 ms.
+Time used(ms) for Parallel Version: 2175 ms.
+
+The Fair size is: 149602
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/182.a.ba
+2.  ./Datasets/300_1.9_0.5/182.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2207 ms.
+Time used(ms) for Parallel Version: 1179 ms.
+
+The Fair size is: 180044
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/183.a.ba
+2.  ./Datasets/300_1.9_0.5/183.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3503 ms.
+Time used(ms) for Parallel Version: 1464 ms.
+
+The Fair size is: 151834
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/184.a.ba
+2.  ./Datasets/300_1.9_0.5/184.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3179 ms.
+Time used(ms) for Parallel Version: 1144 ms.
+
+The Fair size is: 161979
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/185.a.ba
+2.  ./Datasets/300_1.9_0.5/185.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2002 ms.
+Time used(ms) for Parallel Version: 1196 ms.
+
+The Fair size is: 169836
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/186.a.ba
+2.  ./Datasets/300_1.9_0.5/186.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4343 ms.
+Time used(ms) for Parallel Version: 2870 ms.
+
+The Fair size is: 140509
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/187.a.ba
+2.  ./Datasets/300_1.9_0.5/187.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6600 ms.
+Time used(ms) for Parallel Version: 2126 ms.
+
+The Fair size is: 139339
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/188.a.ba
+2.  ./Datasets/300_1.9_0.5/188.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2624 ms.
+Time used(ms) for Parallel Version: 1209 ms.
+
+The Fair size is: 157371
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/189.a.ba
+2.  ./Datasets/300_1.9_0.5/189.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5284 ms.
+Time used(ms) for Parallel Version: 2147 ms.
+
+The Fair size is: 150228
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/190.a.ba
+2.  ./Datasets/300_1.9_0.5/190.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 5306 ms.
+Time used(ms) for Parallel Version: 3076 ms.
+
+The Fair size is: 133230
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/191.a.ba
+2.  ./Datasets/300_1.9_0.5/191.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2186 ms.
+Time used(ms) for Parallel Version: 1227 ms.
+
+The Fair size is: 163997
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/192.a.ba
+2.  ./Datasets/300_1.9_0.5/192.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 1959 ms.
+Time used(ms) for Parallel Version: 1143 ms.
+
+The Fair size is: 158855
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/193.a.ba
+2.  ./Datasets/300_1.9_0.5/193.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2197 ms.
+Time used(ms) for Parallel Version: 1142 ms.
+
+The Fair size is: 176545
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/194.a.ba
+2.  ./Datasets/300_1.9_0.5/194.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 6569 ms.
+Time used(ms) for Parallel Version: 2752 ms.
+
+The Fair size is: 130971
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/195.a.ba
+2.  ./Datasets/300_1.9_0.5/195.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2663 ms.
+Time used(ms) for Parallel Version: 1528 ms.
+
+The Fair size is: 152259
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/196.a.ba
+2.  ./Datasets/300_1.9_0.5/196.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 3050 ms.
+Time used(ms) for Parallel Version: 1281 ms.
+
+The Fair size is: 158419
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/197.a.ba
+2.  ./Datasets/300_1.9_0.5/197.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4712 ms.
+Time used(ms) for Parallel Version: 2011 ms.
+
+The Fair size is: 153826
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/198.a.ba
+2.  ./Datasets/300_1.9_0.5/198.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 2872 ms.
+Time used(ms) for Parallel Version: 1287 ms.
+
+The Fair size is: 173020
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/199.a.ba
+2.  ./Datasets/300_1.9_0.5/199.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 8161 ms.
+Time used(ms) for Parallel Version: 2514 ms.
+
+The Fair size is: 152968
+================================================
+
+
+The compared two automata files are:
+1.  ./Datasets/300_1.9_0.5/200.a.ba
+2.  ./Datasets/300_1.9_0.5/200.b.ba
+
+The created processsor number is:  8
+
+The Running Time:
+--------------------------------------------------
+Time used(ms) for Original Version: 4463 ms.
+Time used(ms) for Parallel Version: 1753 ms.
+
+The Fair size is: 134131
+================================================

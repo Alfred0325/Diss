@@ -1,0 +1,34 @@
+
+The compared two automata files are: 
+1.  ./Examples/bakery.1.c.ba
+2.  ./Examples/fischer.3.c.ba
+
+The Running Number 1: 
+================================================
+Time used(ms) for Sequential Version: 6044 ms.
+Time used(ms) for Parallel Version: 5935 ms.
+Correct! The calculated parallel result is the same as the sequential result!
+
+The Running Number 2: 
+================================================
+Time used(ms) for Sequential Version: 2462 ms.
+Time used(ms) for Parallel Version: 3007 ms.
+Correct! The calculated parallel result is the same as the sequential result!
+
+The Running Number 3: 
+================================================
+Time used(ms) for Sequential Version: 2044 ms.
+Time used(ms) for Parallel Version: 3194 ms.
+Correct! The calculated parallel result is the same as the sequential result!
+
+The Running Number 4: 
+================================================
+Time used(ms) for Sequential Version: 3858 ms.
+Time used(ms) for Parallel Version: 5550 ms.
+Correct! The calculated parallel result is the same as the sequential result!
+
+The Running Number 5: 
+================================================
+Time used(ms) for Sequential Version: 2332 ms.
+Time used(ms) for Parallel Version: 2912 ms.
+Correct! The calculated parallel result is the same as the sequential result!
